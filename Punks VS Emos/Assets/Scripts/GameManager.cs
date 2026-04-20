@@ -3,6 +3,7 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public AudioSource theMusic;
+    public float musicStartTime;
     public bool startPlaying;
     public BeatScroller theBS;
 
@@ -11,6 +12,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         instance = this;
+        theMusic.time = musicStartTime;
     }
 
     // Update is called once per frame
