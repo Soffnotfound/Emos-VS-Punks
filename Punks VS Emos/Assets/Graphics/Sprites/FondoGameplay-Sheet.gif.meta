@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: bd8b82c743adb0d4e8655ef1cdc158a5
+guid: c3b52001046e9b34ca5bd1e41ba648c6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -479399678851237577
-    second: buttonB_0
+      213: -7778125875646488891
+    second: FondoGameplay-Sheet_0
+  - first:
+      213: -3333187585580660664
+    second: FondoGameplay-Sheet_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: buttonB_0
+      name: FondoGameplay-Sheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 34
-        height: 34
+        x: 3
+        y: 3
+        width: 642
+        height: 362
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 739b2a43884d859f0800000000000000
-      internalID: -479399678851237577
+      spriteID: 5ce11d3f9bb8e0490800000000000000
+      internalID: -7778125875646488891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoGameplay-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3
+        width: 642
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84809b70d832eb1d0800000000000000
+      internalID: -3333187585580660664
       vertices: []
       indices: 
       edges: []
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      buttonB_0: -479399678851237577
+      FondoGameplay-Sheet_0: -7778125875646488891
+      FondoGameplay-Sheet_1: -3333187585580660664
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

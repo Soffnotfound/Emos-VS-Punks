@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: aeda4f3692bb6ae4c958726d0051105d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2662040807290670810
+    second: ramona-spritesheet_0
+  - first:
+      213: 3998078663148475648
+    second: ramona-spritesheet_1
+  - first:
+      213: 4384710274775516228
+    second: ramona-spritesheet_2
+  - first:
+      213: -2175110573231464217
+    second: ramona-spritesheet_3
+  - first:
+      213: -964957842625384809
+    second: ramona-spritesheet_4
+  - first:
+      213: 5613947051401106209
+    second: ramona-spritesheet_5
+  - first:
+      213: 7858466876008340428
+    second: ramona-spritesheet_6
+  - first:
+      213: 5418802516042009008
+    second: ramona-spritesheet_7
+  - first:
+      213: 4311253108728563997
+    second: ramona-spritesheet_8
+  - first:
+      213: -1677601705740898692
+    second: ramona-spritesheet_9
+  - first:
+      213: -454709293392950509
+    second: ramona-spritesheet_10
+  - first:
+      213: 6980573345317182654
+    second: ramona-spritesheet_11
+  - first:
+      213: 6887876129278211383
+    second: ramona-spritesheet_12
+  - first:
+      213: -673028961861675715
+    second: ramona-spritesheet_13
+  - first:
+      213: 1816576764241275190
+    second: ramona-spritesheet_14
+  - first:
+      213: -8702736237142821984
+    second: ramona-spritesheet_15
+  - first:
+      213: -2968242411192750407
+    second: ramona-spritesheet_16
+  - first:
+      213: 2551433359903031160
+    second: ramona-spritesheet_17
+  - first:
+      213: 4439634829822422388
+    second: ramona-spritesheet_18
+  - first:
+      213: 6836071083513646148
+    second: ramona-spritesheet_19
+  - first:
+      213: -1841420888380428725
+    second: ramona-spritesheet_20
+  - first:
+      213: 6022055371327824295
+    second: ramona-spritesheet_21
+  - first:
+      213: -6783633995673323223
+    second: ramona-spritesheet_22
+  - first:
+      213: 2590412260123485618
+    second: ramona-spritesheet_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: novel-idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62178d76df78e0bd0800000000000000
+      internalID: -2662040807290670810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novel-idle2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1225
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00598058c570c7730800000000000000
+      internalID: 3998078663148475648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novel-idle3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1225
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444000383ce99dc30800000000000000
+      internalID: 4384710274775516228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novel-idle4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1225
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a757357470d1e0800000000000000
+      internalID: -2175110573231464217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: novel-shy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e261764f7cb92f0800000000000000
+      internalID: -964957842625384809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-left1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1235d9a691fb8ed40800000000000000
+      internalID: 5613947051401106209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-left2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 735
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb96afdcf1ee0d60800000000000000
+      internalID: 7858466876008340428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-left3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 735
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b94da4ad24733b40800000000000000
+      internalID: 5418802516042009008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-left4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 735
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1980924cd5a4db30800000000000000
+      internalID: 4311253108728563997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-left5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 735
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e69be0326f7b8e0800000000000000
+      internalID: -1677601705740898692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-up1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b8e3b8e4c80b9f0800000000000000
+      internalID: -454709293392950509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-up2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcd030197affd060800000000000000
+      internalID: 6980573345317182654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-up3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735358698d6a69f50800000000000000
+      internalID: 6887876129278211383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-up4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d355fac99bbe8a6f0800000000000000
+      internalID: -673028961861675715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-up5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63964d341f6c53910800000000000000
+      internalID: 1816576764241275190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-down-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3be2b508ba93780800000000000000
+      internalID: -8702736237142821984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-down-2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 245
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be6b91e04faec6d0800000000000000
+      internalID: -2968242411192750407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-down-3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 245
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ff91d6f13886320800000000000000
+      internalID: 2551433359903031160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-down-4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 245
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d64040b50cc9d30800000000000000
+      internalID: 4439634829822422388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-right-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c86207e6a9ede50800000000000000
+      internalID: 6836071083513646148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-right-2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ea9125575f176e0800000000000000
+      internalID: -1841420888380428725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-right-3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a16ab93473a29350800000000000000
+      internalID: 6022055371327824295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-right-4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929b0a972d0bbd1a0800000000000000
+      internalID: -6783633995673323223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dance-right-5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52a7ad93ef2f320800000000000000
+      internalID: 2590412260123485618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 796c437e9d5786e45a700a1278d65537
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dance-down-1: -8702736237142821984
+      dance-down-2: -2968242411192750407
+      dance-down-3: 2551433359903031160
+      dance-down-4: 4439634829822422388
+      dance-left1: 5613947051401106209
+      dance-left2: 7858466876008340428
+      dance-left3: 5418802516042009008
+      dance-left4: 4311253108728563997
+      dance-left5: -1677601705740898692
+      dance-right-1: 6836071083513646148
+      dance-right-2: -1841420888380428725
+      dance-right-3: 6022055371327824295
+      dance-right-4: -6783633995673323223
+      dance-right-5: 2590412260123485618
+      dance-up1: -454709293392950509
+      dance-up2: 6980573345317182654
+      dance-up3: 6887876129278211383
+      dance-up4: -673028961861675715
+      dance-up5: 1816576764241275190
+      novel-idle1: -2662040807290670810
+      novel-idle2: 3998078663148475648
+      novel-idle3: 4384710274775516228
+      novel-idle4: -2175110573231464217
+      novel-shy: -964957842625384809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

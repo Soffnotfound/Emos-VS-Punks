@@ -43,6 +43,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1576536323
+    locked: 0
+  - name: Characters
+    uniqueID: 2686252495
+    locked: 0
+  - name: Buttons
+    uniqueID: 242803567
+    locked: 0
   - name: Arrows
     uniqueID: 1997419483
     locked: 0
