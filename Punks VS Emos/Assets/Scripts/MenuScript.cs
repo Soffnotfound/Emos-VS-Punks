@@ -7,6 +7,7 @@ public class MenuScript : MonoBehaviour
 
     public enum MenuStates
     {
+        Splash,
         Main,
         Levels,
         Options,
@@ -14,6 +15,7 @@ public class MenuScript : MonoBehaviour
         Controls,
     };
 
+    public GameObject splashScreen;
     public GameObject mainMenu;
     public GameObject levelMenu;
     public GameObject optionsMenu;
@@ -22,7 +24,8 @@ public class MenuScript : MonoBehaviour
 
     void Start()
     {
-        mainMenu.SetActive(true);
+        splashScreen.SetActive(true);
+        mainMenu.SetActive(false);
         levelMenu.SetActive(false);
         optionsMenu.SetActive(false);
         creditsMenu.SetActive(false);
