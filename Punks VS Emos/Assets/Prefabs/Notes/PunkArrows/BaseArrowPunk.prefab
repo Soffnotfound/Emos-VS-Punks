@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 896238491088412767}
   - component: {fileID: 8501962854223479906}
   - component: {fileID: 2869659855678787922}
+  - component: {fileID: 747442363279109799}
   - component: {fileID: 6800197214840624491}
   m_Layer: 0
   m_Name: BaseArrowPunk
@@ -103,6 +104,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+--- !u!114 &747442363279109799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7918701496697873739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee507c0e6afb2747ae71af8e5bbbf29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  beatTempo: 180
+  hasStarted: 1
 --- !u!58 &6800197214840624491
 CircleCollider2D:
   m_ObjectHideFlags: 0

@@ -1,94 +1,109 @@
 fileFormatVersion: 2
-guid: c61f9a93f0118f54eb3889979bfc42fb
+guid: bb7ba26213e7522468717005dc088ece
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8020143640844766479
-    second: spritesheet_0
+      213: -849644284463788585
+    second: E-Spritesheet_0
   - first:
-      213: -6251682230944352461
-    second: spritesheet_1
+      213: 4188653631085212290
+    second: E-Spritesheet_1
   - first:
-      213: -1259408508766424310
-    second: spritesheet_2
+      213: 8852515749908735675
+    second: E-Spritesheet_2
   - first:
-      213: -5962389079421231736
-    second: spritesheet_3
+      213: -2455685597173228790
+    second: E-Spritesheet_3
   - first:
-      213: 2788568348960109317
-    second: spritesheet_4
+      213: 3338462734392012867
+    second: E-Spritesheet_4
   - first:
-      213: 226702753830753226
-    second: spritesheet_5
+      213: -3880762107106729525
+    second: E-Spritesheet_5
   - first:
-      213: -7921052967969465774
-    second: spritesheet_6
+      213: -6295315229444483721
+    second: E-Spritesheet_6
   - first:
-      213: -1370661682523340017
-    second: spritesheet_7
+      213: -1534855732464562161
+    second: E-Spritesheet_7
   - first:
-      213: -8276262488406422588
-    second: spritesheet_8
+      213: 9039811779878909217
+    second: E-Spritesheet_8
   - first:
-      213: -5906973516983679737
-    second: spritesheet_9
+      213: 3153826978049787860
+    second: E-Spritesheet_9
   - first:
-      213: 5777552420452043588
-    second: spritesheet_10
+      213: 7493912953972133443
+    second: E-Spritesheet_10
   - first:
-      213: 1269540525142108225
-    second: spritesheet_11
+      213: -2354305084755424602
+    second: E-Spritesheet_11
   - first:
-      213: -2630129836624287915
-    second: spritesheet_12
+      213: 8183205433857897632
+    second: E-Spritesheet_12
   - first:
-      213: -7676219313036738927
-    second: spritesheet_13
+      213: 6857072920071892828
+    second: E-Spritesheet_13
   - first:
-      213: 6985626698306143173
-    second: spritesheet_14
+      213: 3455694728508786603
+    second: E-Spritesheet_14
   - first:
-      213: 4773514653529381359
-    second: spritesheet_15
+      213: -299845954570346263
+    second: E-Spritesheet_15
   - first:
-      213: 6413020478584453356
-    second: spritesheet_16
+      213: -3033086874578302436
+    second: E-Spritesheet_16
   - first:
-      213: -6420534950463556919
-    second: spritesheet_17
+      213: 7937132997262049548
+    second: E-Spritesheet_17
   - first:
-      213: 8367830406354533065
-    second: spritesheet_18
+      213: -1530238070952647327
+    second: E-Spritesheet_18
   - first:
-      213: -4721245407534591264
-    second: spritesheet_19
+      213: 3767311063399672553
+    second: E-Spritesheet_19
   - first:
-      213: -2642393358525368334
-    second: spritesheet_20
+      213: 7710559647690524812
+    second: E-Spritesheet_20
   - first:
-      213: 182515998739034355
-    second: spritesheet_21
+      213: 8768552942295285320
+    second: E-Spritesheet_21
   - first:
-      213: 5390129371266227295
-    second: spritesheet_22
+      213: -3000912554124840449
+    second: E-Spritesheet_22
   - first:
-      213: 1111231892956182058
-    second: spritesheet_23
+      213: -8840741664787920862
+    second: E-Spritesheet_23
   - first:
-      213: 3042023047814558122
-    second: spritesheet_24
+      213: 7861338775202594255
+    second: E-Spritesheet_24
   - first:
-      213: -1297572194080285004
-    second: spritesheet_25
+      213: 1564672011310661556
+    second: E-Spritesheet_25
   - first:
-      213: -5351138903708955224
-    second: spritesheet_26
+      213: 8506512666404251088
+    second: E-Spritesheet_26
   - first:
-      213: -5895191231709818157
-    second: spritesheet_27
+      213: -5043532064989297539
+    second: E-Spritesheet_27
   - first:
-      213: 4116411608050698257
-    second: spritesheet_28
+      213: 2246352474498627076
+    second: E-Spritesheet_28
+  - first:
+      213: 6456828344806759296
+    second: E-Spritesheet_29
+  - first:
+      213: 3519864050315762136
+    second: E-Spritesheet_30
+  - first:
+      213: 1527818646752367931
+    second: E-Spritesheet_31
+  - first:
+      213: 6707179688819104142
+    second: E-Spritesheet_32
+  - first:
+      213: -157876520410545342
+    second: E-Spritesheet_33
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -159,7 +174,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -184,13 +199,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Espi-Novel-Idle-1
+      name: E-Novel-Idle-1
       rect:
         serializedVersion: 2
         x: 0
-        y: 1165
+        y: 1452
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -199,20 +214,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0d092816264d4f60800000000000000
-      internalID: 8020143640844766479
+      spriteID: 7dd481f56057534f0800000000000000
+      internalID: -849644284463788585
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Idle-2
+      name: E-Novel-Idle-2
       rect:
         serializedVersion: 2
         x: 241
-        y: 1165
+        y: 1452
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +236,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 337b0ff32209d39a0800000000000000
-      internalID: -6251682230944352461
+      spriteID: 282fbf7f846112a30800000000000000
+      internalID: 4188653631085212290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Idle-3
+      name: E-Novel-Idle-3
       rect:
         serializedVersion: 2
         x: 482
-        y: 1165
+        y: 1452
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -243,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a037fd742aea58ee0800000000000000
-      internalID: -1259408508766424310
+      spriteID: bb66cd10c247ada70800000000000000
+      internalID: 8852515749908735675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Idle-4
+      name: E-Novel-Idle-4
       rect:
         serializedVersion: 2
         x: 723
-        y: 1165
+        y: 1452
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +280,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 88ddd6ce8b6514da0800000000000000
-      internalID: -5962389079421231736
+      spriteID: a0b527cc5f6abedd0800000000000000
+      internalID: -2455685597173228790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Talk-1
+      name: E-Novel-Talk-1
       rect:
         serializedVersion: 2
         x: 0
-        y: 932
+        y: 1210
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +302,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5033aaf832cf2b620800000000000000
-      internalID: 2788568348960109317
+      spriteID: 340b0534b2a945e20800000000000000
+      internalID: 3338462734392012867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Talk-2
+      name: E-Novel-Talk-2
       rect:
         serializedVersion: 2
         x: 241
-        y: 932
+        y: 1210
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -309,20 +324,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ac35fa714f8652300800000000000000
-      internalID: 226702753830753226
+      spriteID: bc16b1cbc63c42ac0800000000000000
+      internalID: -3880762107106729525
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Talk-3
+      name: E-Novel-Talk-3
       rect:
         serializedVersion: 2
         x: 482
-        y: 932
+        y: 1210
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,20 +346,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25a502d0b44c21290800000000000000
-      internalID: -7921052967969465774
+      spriteID: 775dadf172c82a8a0800000000000000
+      internalID: -6295315229444483721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Talk-4
+      name: E-Novel-Talk-4
       rect:
         serializedVersion: 2
         x: 723
-        y: 932
+        y: 1210
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0305f9367e6afce0800000000000000
-      internalID: -1370661682523340017
+      spriteID: f005af4e7d813bae0800000000000000
+      internalID: -1534855732464562161
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Shy-1
+      name: E-Novel-Shy-1
       rect:
         serializedVersion: 2
         x: 0
-        y: 699
+        y: 968
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -375,20 +390,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4cb05a6cd1fc42d80800000000000000
-      internalID: -8276262488406422588
+      spriteID: 125f2183becd37d70800000000000000
+      internalID: 9039811779878909217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Shy-2
+      name: E-Novel-Shy-2
       rect:
         serializedVersion: 2
-        x: 241
-        y: 699
+        x: 243
+        y: 968
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,20 +412,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7054c8ef1e6360ea0800000000000000
-      internalID: -5906973516983679737
+      spriteID: 4d783b54de4a4cb20800000000000000
+      internalID: 3153826978049787860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Shy-3
+      name: E-Novel-Shy-3
       rect:
         serializedVersion: 2
         x: 482
-        y: 699
+        y: 968
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -419,20 +434,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44b0e3cc05dfd2050800000000000000
-      internalID: 5777552420452043588
+      spriteID: 34e053f802abff760800000000000000
+      internalID: 7493912953972133443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Shy-4
+      name: E-Novel-Shy-4
       rect:
         serializedVersion: 2
         x: 723
-        y: 699
+        y: 968
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,20 +456,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 148ee0d91605e9110800000000000000
-      internalID: 1269540525142108225
+      spriteID: 6aac142cff3d35fd0800000000000000
+      internalID: -2354305084755424602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Shy-5
+      name: E-Novel-Shy-5
       rect:
         serializedVersion: 2
         x: 964
-        y: 699
+        y: 968
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -463,20 +478,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5576ade39d6ef7bd0800000000000000
-      internalID: -2630129836624287915
+      spriteID: 0a475215cf5909170800000000000000
+      internalID: 8183205433857897632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Novel-Shy-6
+      name: E-Novel-Shy-7
       rect:
         serializedVersion: 2
         x: 1205
-        y: 699
+        y: 968
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,20 +500,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 19eb3748437987590800000000000000
-      internalID: -7676219313036738927
+      spriteID: c5fe5df8d77392f50800000000000000
+      internalID: 6857072920071892828
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Left-1
+      name: E-Dance-Idle-1
       rect:
         serializedVersion: 2
         x: 0
-        y: 466
+        y: 726
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -507,20 +522,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c3c50e787ee1f060800000000000000
-      internalID: 6985626698306143173
+      spriteID: ba7c4f8eb0815ff20800000000000000
+      internalID: 3455694728508786603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Left-2
+      name: E-Dance-Idle-2
       rect:
         serializedVersion: 2
         x: 241
-        y: 466
+        y: 726
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -529,20 +544,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe99db5494eee3240800000000000000
-      internalID: 4773514653529381359
+      spriteID: 9e02f7661bbb6dbf0800000000000000
+      internalID: -299845954570346263
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Left-3
+      name: E-Dance-Idle-3
       rect:
         serializedVersion: 2
         x: 482
-        y: 466
+        y: 726
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -551,20 +566,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce8f45bc520aff850800000000000000
-      internalID: 6413020478584453356
+      spriteID: c1a4cdbbe8f48e5d0800000000000000
+      internalID: -3033086874578302436
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Left-4
+      name: E-Dance-Idle-4
       rect:
         serializedVersion: 2
         x: 723
-        y: 466
+        y: 726
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,20 +588,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c2b3a1ea7da5e6a0800000000000000
-      internalID: -6420534950463556919
+      spriteID: c0106d4886c562e60800000000000000
+      internalID: 7937132997262049548
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Left-5
+      name: E-Dance-Idle-5
       rect:
         serializedVersion: 2
         x: 964
-        y: 466
+        y: 726
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -595,20 +610,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ca797f7b61802470800000000000000
-      internalID: 8367830406354533065
+      spriteID: 165a61ff49083cae0800000000000000
+      internalID: -1530238070952647327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Down-1
+      name: E-Dance-Left-1
       rect:
         serializedVersion: 2
         x: 0
-        y: 233
+        y: 484
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -617,20 +632,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e2d47ae054ca7eb0800000000000000
-      internalID: -4721245407534591264
+      spriteID: 9ea265cb37d284430800000000000000
+      internalID: 3767311063399672553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Down-2
+      name: E-Dance-Left-2
       rect:
         serializedVersion: 2
         x: 241
-        y: 233
+        y: 484
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -639,20 +654,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2f77e3c8d35545bd0800000000000000
-      internalID: -2642393358525368334
+      spriteID: c880e04b529610b60800000000000000
+      internalID: 7710559647690524812
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Down-3
+      name: E-Dance-Left-3
       rect:
         serializedVersion: 2
         x: 482
-        y: 233
+        y: 484
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -661,20 +676,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f07aa6755d688200800000000000000
-      internalID: 182515998739034355
+      spriteID: 84e77b7717820b970800000000000000
+      internalID: 8768552942295285320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Down-4
+      name: E-Dance-Left-4
       rect:
         serializedVersion: 2
         x: 723
-        y: 233
+        y: 484
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -683,20 +698,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f5c19b3ea169dca40800000000000000
-      internalID: 5390129371266227295
+      spriteID: ff1f0697eed9a56d0800000000000000
+      internalID: -3000912554124840449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Down-5
+      name: E-Dance-Left-5
       rect:
         serializedVersion: 2
         x: 964
-        y: 233
+        y: 484
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -705,20 +720,130 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a26fcb2e483eb6f00800000000000000
-      internalID: 1111231892956182058
+      spriteID: 228025fcb406f4580800000000000000
+      internalID: -8840741664787920862
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Right-1
+      name: E-Dance-Down-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd74f207f5191d60800000000000000
+      internalID: 7861338775202594255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Down-2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 242
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bffa2087e4d6b510800000000000000
+      internalID: 1564672011310661556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Down-3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 244
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5e26e53343d0670800000000000000
+      internalID: 8506512666404251088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Down-4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 242
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7445050f46c10ab0800000000000000
+      internalID: -5043532064989297539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Down-5
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 242
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4067fc28ca5ac2f10800000000000000
+      internalID: 2246352474498627076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Right-1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -727,20 +852,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa1b98b38df673a20800000000000000
-      internalID: 3042023047814558122
+      spriteID: 08b51eb7b234b9950800000000000000
+      internalID: 6456828344806759296
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Right-2
+      name: E-Dance-Right-2
       rect:
         serializedVersion: 2
-        x: 241
+        x: 239
         y: 0
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -749,20 +874,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4be9b6dd6f81efde0800000000000000
-      internalID: -1297572194080285004
+      spriteID: 8d91db864b119d030800000000000000
+      internalID: 3519864050315762136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Right-3
+      name: E-Dance-Right-3
       rect:
         serializedVersion: 2
         x: 482
         y: 0
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -771,20 +896,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ad87a4c48fecb5b0800000000000000
-      internalID: -5351138903708955224
+      spriteID: b3594e8e6f6e33510800000000000000
+      internalID: 1527818646752367931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Right-4
+      name: E-Dance-Right-4
       rect:
         serializedVersion: 2
         x: 723
         y: 0
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -793,20 +918,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d250fe0fc2103ea0800000000000000
-      internalID: -5895191231709818157
+      spriteID: e8917cc0460b41d50800000000000000
+      internalID: 6707179688819104142
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Espi-Dance-Right-5
+      name: E-Dance-Right-5
       rect:
         serializedVersion: 2
         x: 964
         y: 0
         width: 241
-        height: 233
+        height: 242
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -815,8 +940,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 118082f3c8e602930800000000000000
-      internalID: 4116411608050698257
+      spriteID: 2430e82242c1fcdf0800000000000000
+      internalID: -157876520410545342
       vertices: []
       indices: 
       edges: []
@@ -825,7 +950,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 636b6586327e78b4183cead08aa82dbb
+    spriteID: df86d0ae555030a49b9b3817e161c18f
     internalID: 0
     vertices: []
     indices: 
@@ -835,35 +960,40 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Espi-Dance-Down-1: -4721245407534591264
-      Espi-Dance-Down-2: -2642393358525368334
-      Espi-Dance-Down-3: 182515998739034355
-      Espi-Dance-Down-4: 5390129371266227295
-      Espi-Dance-Down-5: 1111231892956182058
-      Espi-Dance-Left-1: 6985626698306143173
-      Espi-Dance-Left-2: 4773514653529381359
-      Espi-Dance-Left-3: 6413020478584453356
-      Espi-Dance-Left-4: -6420534950463556919
-      Espi-Dance-Left-5: 8367830406354533065
-      Espi-Dance-Right-1: 3042023047814558122
-      Espi-Dance-Right-2: -1297572194080285004
-      Espi-Dance-Right-3: -5351138903708955224
-      Espi-Dance-Right-4: -5895191231709818157
-      Espi-Dance-Right-5: 4116411608050698257
-      Espi-Novel-Idle-1: 8020143640844766479
-      Espi-Novel-Idle-2: -6251682230944352461
-      Espi-Novel-Idle-3: -1259408508766424310
-      Espi-Novel-Idle-4: -5962389079421231736
-      Espi-Novel-Shy-1: -8276262488406422588
-      Espi-Novel-Shy-2: -5906973516983679737
-      Espi-Novel-Shy-3: 5777552420452043588
-      Espi-Novel-Shy-4: 1269540525142108225
-      Espi-Novel-Shy-5: -2630129836624287915
-      Espi-Novel-Shy-6: -7676219313036738927
-      Espi-Novel-Talk-1: 2788568348960109317
-      Espi-Novel-Talk-2: 226702753830753226
-      Espi-Novel-Talk-3: -7921052967969465774
-      Espi-Novel-Talk-4: -1370661682523340017
+      E-Dance-Down-1: 7861338775202594255
+      E-Dance-Down-2: 1564672011310661556
+      E-Dance-Down-3: 8506512666404251088
+      E-Dance-Down-4: -5043532064989297539
+      E-Dance-Down-5: 2246352474498627076
+      E-Dance-Idle-1: 3455694728508786603
+      E-Dance-Idle-2: -299845954570346263
+      E-Dance-Idle-3: -3033086874578302436
+      E-Dance-Idle-4: 7937132997262049548
+      E-Dance-Idle-5: -1530238070952647327
+      E-Dance-Left-1: 3767311063399672553
+      E-Dance-Left-2: 7710559647690524812
+      E-Dance-Left-3: 8768552942295285320
+      E-Dance-Left-4: -3000912554124840449
+      E-Dance-Left-5: -8840741664787920862
+      E-Dance-Right-1: 6456828344806759296
+      E-Dance-Right-2: 3519864050315762136
+      E-Dance-Right-3: 1527818646752367931
+      E-Dance-Right-4: 6707179688819104142
+      E-Dance-Right-5: -157876520410545342
+      E-Novel-Idle-1: -849644284463788585
+      E-Novel-Idle-2: 4188653631085212290
+      E-Novel-Idle-3: 8852515749908735675
+      E-Novel-Idle-4: -2455685597173228790
+      E-Novel-Shy-1: 9039811779878909217
+      E-Novel-Shy-2: 3153826978049787860
+      E-Novel-Shy-3: 7493912953972133443
+      E-Novel-Shy-4: -2354305084755424602
+      E-Novel-Shy-5: 8183205433857897632
+      E-Novel-Shy-7: 6857072920071892828
+      E-Novel-Talk-1: 3338462734392012867
+      E-Novel-Talk-2: -3880762107106729525
+      E-Novel-Talk-3: -6295315229444483721
+      E-Novel-Talk-4: -1534855732464562161
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 896238491088412767}
   - component: {fileID: 138198235851203269}
   - component: {fileID: 5424014331741250344}
+  - component: {fileID: 8638598153000068123}
   - component: {fileID: 5178274219917344586}
   m_Layer: 0
   m_Name: BaseArrowEmo
@@ -101,6 +102,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4d2b4e107d0d3d47963e67ed67d9d9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &8638598153000068123
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7918701496697873739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ee507c0e6afb2747ae71af8e5bbbf29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  beatTempo: 180
+  hasStarted: 1
 --- !u!58 &5178274219917344586
 CircleCollider2D:
   m_ObjectHideFlags: 0
