@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3bb38b0641a3b0343b504c9b0cba70d3
+guid: 24e134ca7c8a79347b21b4b664ed2bde
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4637745726447591440
-    second: PanelGoLevel_0
+      213: 8246432341946622864
+    second: GoBackBts_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PanelGoLevel_0
+      name: GoBackBts_0
       rect:
         serializedVersion: 2
-        x: 336
-        y: 102
-        width: 114
-        height: 44
+        x: 190
+        y: 41
+        width: 15
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 010ae779a259c5040800000000000000
-      internalID: 4637745726447591440
+      spriteID: 09365060686317270800000000000000
+      internalID: 8246432341946622864
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2c49c346185541d44892821391c39063
+    spriteID: 73759ad9397665b4591be441a2ac6d03
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PanelGoLevel_0: 4637745726447591440
+      GoBackBts_0: 8246432341946622864
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

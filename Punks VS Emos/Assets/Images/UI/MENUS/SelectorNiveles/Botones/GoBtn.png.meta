@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c1a7f42e452403c419564fafd317688b
+guid: 8ab8b71e5e64f034bafeab9a82756124
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3584408900436378503
-    second: SELECTORNIVELES_NOCOLOR_0
+      213: -4964871871236262625
+    second: GoBtn_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SELECTORNIVELES_NOCOLOR_0
+      name: GoBtn_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 640
-        height: 360
+        x: 408
+        y: 107
+        width: 37
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 783424867e06eb130800000000000000
-      internalID: 3584408900436378503
+      spriteID: f1532af865b391bb0800000000000000
+      internalID: -4964871871236262625
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6a8efc28ec9c60a418fbba32e7bb10d9
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      SELECTORNIVELES_NOCOLOR_0: 3584408900436378503
+      GoBtn_0: -4964871871236262625
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

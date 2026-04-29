@@ -116,12 +116,12 @@ TextureImporter:
       name: Icono_Neutral_0
       rect:
         serializedVersion: 2
-        x: 301
+        x: 302
         y: 122
-        width: 26
-        height: 21
+        width: 24
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a7ae4a1b3c079694691d90a33226f0bb
     internalID: 0
     vertices: []
     indices: 

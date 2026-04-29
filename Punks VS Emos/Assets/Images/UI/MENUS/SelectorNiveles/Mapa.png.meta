@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3bb38b0641a3b0343b504c9b0cba70d3
+guid: dfe3de128b1e3744b93ef301c8815b73
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4637745726447591440
-    second: PanelGoLevel_0
+      213: -757467929304204922
+    second: Mapa_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PanelGoLevel_0
+      name: Mapa_0
       rect:
         serializedVersion: 2
-        x: 336
-        y: 102
-        width: 114
-        height: 44
+        x: 183
+        y: 34
+        width: 277
+        height: 173
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 010ae779a259c5040800000000000000
-      internalID: 4637745726447591440
+      spriteID: 68972197eeeec75f0800000000000000
+      internalID: -757467929304204922
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2c49c346185541d44892821391c39063
+    spriteID: c53db42667bb468428eba0aef241160c
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      PanelGoLevel_0: 4637745726447591440
+      Mapa_0: -757467929304204922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
