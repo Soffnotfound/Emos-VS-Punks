@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 9120556594511387967}
   - component: {fileID: 6353433911268139161}
   - component: {fileID: 1348876294692411354}
+  - component: {fileID: 5211862411750913426}
   - component: {fileID: 6974225881301337044}
   - component: {fileID: 4429337896558216171}
   m_Layer: 0
@@ -79,7 +80,7 @@ SpriteRenderer:
   m_SortingLayerID: 242803567
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2328001946844701924, guid: 0d093391ea5ffb442805390e643614bf, type: 3}
+  m_Sprite: {fileID: -474158302484046920, guid: 194d2012c1f1f7b4fa7d604227541ed8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -97,15 +98,32 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8131600062490585591}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 11563a53d48f89241a1ecfa7cbc7c4dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  defaultImage: {fileID: -2328001946844701924, guid: 0d093391ea5ffb442805390e643614bf, type: 3}
-  pressedImage: {fileID: -479399678851237577, guid: bd8b82c743adb0d4e8655ef1cdc158a5, type: 3}
+  defaultImage: {fileID: -474158302484046920, guid: 194d2012c1f1f7b4fa7d604227541ed8, type: 3}
+  pressedImage: {fileID: 8128047887456599541, guid: d833e4e4030e98d43ae8f27a33a41fe4, type: 3}
   keyToPress: 100
   directionIndex: 1
+--- !u!114 &5211862411750913426
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8131600062490585591}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 267adca93f35a284d8bf2143fb6ba962, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  availableStyles:
+  - styleName: Punk
+    styleSprite: {fileID: -474158302484046920, guid: 194d2012c1f1f7b4fa7d604227541ed8, type: 3}
+  - styleName: Emo
+    styleSprite: {fileID: -8401657358481925751, guid: e65ccb535c3f97648af68ca4bd243bd8, type: 3}
 --- !u!61 &6974225881301337044
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -144,7 +162,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.9444444, y: 0.9444444}
+    oldSize: {x: 1.0833334, y: 1.0833334}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

@@ -11,8 +11,9 @@ GameObject:
   - component: {fileID: 896238491088412767}
   - component: {fileID: 138198235851203269}
   - component: {fileID: 5424014331741250344}
-  - component: {fileID: 8638598153000068123}
+  - component: {fileID: 5321253595636946234}
   - component: {fileID: 5178274219917344586}
+  - component: {fileID: -7615619525422863410}
   m_Layer: 0
   m_Name: BaseArrowEmo
   m_TagString: NPC
@@ -79,8 +80,8 @@ SpriteRenderer:
   m_SortingLayerID: 1997419483
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_Sprite: {fileID: -765150924802650856, guid: a0c539408daa5344783e686b59db8b65, type: 3}
-  m_Color: {r: 0.47992006, g: 0.26830178, b: 0.89433956, a: 1}
+  m_Sprite: {fileID: 1787274940, guid: 5260c679a6b6c234c9e75b28b6be783a, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -102,7 +103,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4d2b4e107d0d3d47963e67ed67d9d9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &8638598153000068123
+  disappearDelay: 0.4
+  direction: 1
+--- !u!114 &5321253595636946234
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -152,3 +155,25 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.23
+--- !u!95 &-7615619525422863410
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7918701496697873739}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 4915aaca4e6967b48ac8c9d5b2dc7732, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

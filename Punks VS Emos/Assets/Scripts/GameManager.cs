@@ -13,20 +13,21 @@ public class GameManager : MonoBehaviour
     {
         instance = this;
         theMusic.time = musicStartTime;
+        theMusic.Play();
     }
 
     // Update is called once per frame
     void Update()
     {
-        if(!startPlaying)
-        {
-            if(Input.anyKeyDown)
-            {
-                startPlaying = true;
-                theBS.hasStarted = true;
-                theMusic.Play();
-            }
-        }
+        //if(!startPlaying)
+        //{
+        //if(Input.anyKeyDown)
+        //{
+        //startPlaying = true;
+        //theBS.hasStarted = true;
+        //theMusic.Play();
+        //}
+        //}
     }
 
     public void NoteHit()

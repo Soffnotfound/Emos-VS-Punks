@@ -10,7 +10,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 896238491088412767, guid: d9985ca2e9f276542862195ec65dfbd6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.5
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 896238491088412767, guid: d9985ca2e9f276542862195ec65dfbd6, type: 3}
       propertyPath: m_LocalPosition.y
@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArrowRightPunk
       objectReference: {fileID: 0}
+    - target: {fileID: 8501962854223479906, guid: d9985ca2e9f276542862195ec65dfbd6, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -525815203, guid: 5566d3be8beaa36469abdaf63b54f9d9, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: aeda4f3692bb6ae4c958726d0051105d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8759274479332607967
+    second: Ramona-Sheet_0
+  - first:
+      213: -242125748796575906
+    second: Ramona-Sheet_1
+  - first:
+      213: -302671322171508807
+    second: Ramona-Sheet_2
+  - first:
+      213: -6039336094370270643
+    second: Ramona-Sheet_3
+  - first:
+      213: 2390958005310146432
+    second: Ramona-Sheet_4
+  - first:
+      213: 1786556503998738540
+    second: Ramona-Sheet_5
+  - first:
+      213: -6636929765100755280
+    second: Ramona-Sheet_6
+  - first:
+      213: -2140315165290743751
+    second: Ramona-Sheet_7
+  - first:
+      213: 1792298651801755074
+    second: Ramona-Sheet_8
+  - first:
+      213: -4572302560697362419
+    second: Ramona-Sheet_9
+  - first:
+      213: 8096853300136183149
+    second: Ramona-Sheet_10
+  - first:
+      213: -3702580965115053182
+    second: Ramona-Sheet_11
+  - first:
+      213: 1245780892147895459
+    second: Ramona-Sheet_12
+  - first:
+      213: -8435096756117264294
+    second: Ramona-Sheet_13
+  - first:
+      213: 3158501257378776243
+    second: Ramona-Sheet_14
+  - first:
+      213: -3689844866968628677
+    second: Ramona-Sheet_15
+  - first:
+      213: 6710492835891820511
+    second: Ramona-Sheet_16
+  - first:
+      213: -1489357057325382270
+    second: Ramona-Sheet_17
+  - first:
+      213: 799480778473022133
+    second: Ramona-Sheet_18
+  - first:
+      213: -7954274014708397641
+    second: Ramona-Sheet_19
+  - first:
+      213: -4496649161383882838
+    second: Ramona-Sheet_20
+  - first:
+      213: -2156884556335945322
+    second: Ramona-Sheet_21
+  - first:
+      213: -4748174050560528135
+    second: Ramona-Sheet_22
+  - first:
+      213: 3134897734024358969
+    second: Ramona-Sheet_23
+  - first:
+      213: 8067080890434787018
+    second: Ramona-Sheet_24
+  - first:
+      213: -5074125482928476756
+    second: Ramona-Sheet_25
+  - first:
+      213: -3820709757066437933
+    second: Ramona-Sheet_26
+  - first:
+      213: 3844376650043855193
+    second: Ramona-Sheet_27
+  - first:
+      213: 206861884026601264
+    second: Ramona-Sheet_28
+  - first:
+      213: 4496464166907724559
+    second: Ramona-Sheet_29
+  - first:
+      213: -55685672801169906
+    second: Ramona-Sheet_30
+  - first:
+      213: 5268839945868931786
+    second: Ramona-Sheet_31
+  - first:
+      213: 145866956331137039
+    second: Ramona-Sheet_32
+  - first:
+      213: 1925275674913579254
+    second: Ramona-Sheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ramona-Novel-Idle-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1715
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7c3c6fab13f8970800000000000000
+      internalID: 8759274479332607967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Novel-Idle-2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1715
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f21001aebc3acf0800000000000000
+      internalID: -242125748796575906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Novel-Idle-3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1715
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7f44e3902bccbf0800000000000000
+      internalID: -302671322171508807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Novel-Idle-4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1715
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d427dd7e1d7ff2ca0800000000000000
+      internalID: -6039336094370270643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Novel-Talk-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087436353a36e2120800000000000000
+      internalID: 2390958005310146432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Novel-Talk-2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1470
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c603200ccaf1bc810800000000000000
+      internalID: 1786556503998738540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Novel-Talk-3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1470
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6e3f7ea83e4e3a0800000000000000
+      internalID: -6636929765100755280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Novel-Talk-4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1470
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938b67172b21c42e0800000000000000
+      internalID: -2140315165290743751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Novel-Talk-5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1470
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd1e08b0268fd810800000000000000
+      internalID: 1792298651801755074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Novel-Shy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d085600db0beb80c0800000000000000
+      internalID: -4572302560697362419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Idle-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6501117d2dcd5070800000000000000
+      internalID: 8096853300136183149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Idle-2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 980
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb136ba3acd9cc0800000000000000
+      internalID: -3702580965115053182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Idle-3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 980
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc178fe17e94110800000000000000
+      internalID: 1245780892147895459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Idle-4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 980
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a49df03480fa80800000000000000
+      internalID: -8435096756117264294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Idle-5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 980
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4cfacb82045db20800000000000000
+      internalID: 3158501257378776243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Down-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b325904a4a90bccc0800000000000000
+      internalID: -3689844866968628677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Down-2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 735
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7b2273ea5702d50800000000000000
+      internalID: 6710492835891820511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Down-3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 735
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2854666b5adb45be0800000000000000
+      internalID: -1489357057325382270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Down-4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 735
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b223ad3883581b00800000000000000
+      internalID: 799480778473022133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Left-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b98f2b5dedbc9190800000000000000
+      internalID: -7954274014708397641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Left-2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafc7287961b891c0800000000000000
+      internalID: -4496649161383882838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Left-3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699e1167ce43112e0800000000000000
+      internalID: -2156884556335945322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Left-4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0bc90abd81b1eb0800000000000000
+      internalID: -4748174050560528135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Left-5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 490
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ce2b331e4618b20800000000000000
+      internalID: 3134897734024358969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Right-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 245
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac615b0245704ff60800000000000000
+      internalID: 8067080890434787018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Right-2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 245
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad6a44d1c51599b0800000000000000
+      internalID: -5074125482928476756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Right-3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 245
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da9f2c08bc1afac0800000000000000
+      internalID: -3820709757066437933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Right-4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 245
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9519ba0e138f95530800000000000000
+      internalID: 3844376650043855193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Right-5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 245
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f39fa99cbeed200800000000000000
+      internalID: 206861884026601264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Up-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03cec52656a66e30800000000000000
+      internalID: 4496464166907724559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Up-2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e8b95fc2a2a3ff0800000000000000
+      internalID: -55685672801169906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Up-3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2f7e7e30eae1940800000000000000
+      internalID: 5268839945868931786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Up-4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08b5945939360200800000000000000
+      internalID: 145866956331137039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ramona-Dance-Up-5
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 209
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0ace99604f7ba10800000000000000
+      internalID: 1925275674913579254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: db0d3927f0586fc4baa8c2811b795762
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ramona-Dance-Down-1: -3689844866968628677
+      Ramona-Dance-Down-2: 6710492835891820511
+      Ramona-Dance-Down-3: -1489357057325382270
+      Ramona-Dance-Down-4: 799480778473022133
+      Ramona-Dance-Idle-1: 8096853300136183149
+      Ramona-Dance-Idle-2: -3702580965115053182
+      Ramona-Dance-Idle-3: 1245780892147895459
+      Ramona-Dance-Idle-4: -8435096756117264294
+      Ramona-Dance-Idle-5: 3158501257378776243
+      Ramona-Dance-Left-1: -7954274014708397641
+      Ramona-Dance-Left-2: -4496649161383882838
+      Ramona-Dance-Left-3: -2156884556335945322
+      Ramona-Dance-Left-4: -4748174050560528135
+      Ramona-Dance-Left-5: 3134897734024358969
+      Ramona-Dance-Right-1: 8067080890434787018
+      Ramona-Dance-Right-2: -5074125482928476756
+      Ramona-Dance-Right-3: -3820709757066437933
+      Ramona-Dance-Right-4: 3844376650043855193
+      Ramona-Dance-Right-5: 206861884026601264
+      Ramona-Dance-Up-1: 4496464166907724559
+      Ramona-Dance-Up-2: -55685672801169906
+      Ramona-Dance-Up-3: 5268839945868931786
+      Ramona-Dance-Up-4: 145866956331137039
+      Ramona-Dance-Up-5: 1925275674913579254
+      Ramona-Novel-Idle-1: 8759274479332607967
+      Ramona-Novel-Idle-2: -242125748796575906
+      Ramona-Novel-Idle-3: -302671322171508807
+      Ramona-Novel-Idle-4: -6039336094370270643
+      Ramona-Novel-Shy: -4572302560697362419
+      Ramona-Novel-Talk-1: 2390958005310146432
+      Ramona-Novel-Talk-2: 1786556503998738540
+      Ramona-Novel-Talk-3: -6636929765100755280
+      Ramona-Novel-Talk-4: -2140315165290743751
+      Ramona-Novel-Talk-5: 1792298651801755074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
