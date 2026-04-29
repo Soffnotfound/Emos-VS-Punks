@@ -116,12 +116,12 @@ TextureImporter:
       name: Arcade_Neutral_0
       rect:
         serializedVersion: 2
-        x: 358
-        y: 147
-        width: 91
-        height: 18
+        x: 359
+        y: 148
+        width: 89
+        height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 26c8c00f46dc56649b2bfce81d6c4b6a
     internalID: 0
     vertices: []
     indices: 

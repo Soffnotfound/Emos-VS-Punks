@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4ab8649846b280e4182462b26f6e2907
+guid: 460386f057f59624c867312c376fe368
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6834353621641189507
-    second: MAINMENU_NOCOLOR_0
+      213: -5168156013631004004
+    second: MarcoOrdenador_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MAINMENU_NOCOLOR_0
+      name: MarcoOrdenador_0
       rect:
         serializedVersion: 2
         x: 0
@@ -121,15 +121,15 @@ TextureImporter:
         width: 640
         height: 360
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d772ca0579f7721a0800000000000000
-      internalID: -6834353621641189507
+      spriteID: c92a9b7dc750748b0800000000000000
+      internalID: -5168156013631004004
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7fab5806e4c99a143a567fc7eb3f4a3f
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      MAINMENU_NOCOLOR_0: -6834353621641189507
+      MarcoOrdenador_0: -5168156013631004004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
