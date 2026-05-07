@@ -5,6 +5,24 @@ TextureImporter:
   - first:
       213: 7969198867953230794
     second: Noticias_MM_0
+  - first:
+      213: 2621392775246556057
+    second: Noticias_MM_1
+  - first:
+      213: 4794634483738685171
+    second: Noticias_MM_2
+  - first:
+      213: -7275174810428534787
+    second: Noticias_MM_3
+  - first:
+      213: 8223887818629784822
+    second: Noticias_MM_4
+  - first:
+      213: -4372484004790401626
+    second: Noticias_MM_5
+  - first:
+      213: 2877696259998432831
+    second: Noticias_MM_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,12 +134,12 @@ TextureImporter:
       name: Noticias_MM_0
       rect:
         serializedVersion: 2
-        x: 172
-        y: 31
-        width: 158
-        height: 192
+        x: 162
+        y: 36
+        width: 166
+        height: 202
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -134,11 +152,143 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Noticias_MM_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 67
+        width: 153
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ba85127de016420800000000000000
+      internalID: 2621392775246556057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noticias_MM_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 95
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe251fe8a6f98240800000000000000
+      internalID: 4794634483738685171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noticias_MM_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 26
+        width: 60
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff89813e03690b90800000000000000
+      internalID: -7275174810428534787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noticias_MM_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 95
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f42716266e112270800000000000000
+      internalID: 8223887818629784822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noticias_MM_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 95
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5046cc6f0d153c0800000000000000
+      internalID: -4372484004790401626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Noticias_MM_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 95
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e3da47081afe720800000000000000
+      internalID: 2877696259998432831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9f66563d923e6d84ea128726e70f8adc
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -149,6 +299,12 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Noticias_MM_0: 7969198867953230794
+      Noticias_MM_1: 2621392775246556057
+      Noticias_MM_2: 4794634483738685171
+      Noticias_MM_3: -7275174810428534787
+      Noticias_MM_4: 8223887818629784822
+      Noticias_MM_5: -4372484004790401626
+      Noticias_MM_6: 2877696259998432831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
