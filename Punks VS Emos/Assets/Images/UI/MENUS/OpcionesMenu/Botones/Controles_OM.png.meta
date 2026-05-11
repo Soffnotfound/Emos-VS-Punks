@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3c7ad768a3294d045abb00cb97081f8f
+guid: f7c3b0a45e93ee94eb80cd06afad994d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2376261664402524000
-    second: BarraLlena_OM_0
+      213: 2815674692832303867
+    second: Controles_OM_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +113,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BarraLlena_OM_0
+      name: Controles_OM_0
       rect:
         serializedVersion: 2
-        x: 292
-        y: 106
-        width: 143
-        height: 7
+        x: 291
+        y: 211
+        width: 116
+        height: 22
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0674710d46d2af020800000000000000
-      internalID: 2376261664402524000
+      spriteID: bfa935d0739431720800000000000000
+      internalID: 2815674692832303867
       vertices: []
       indices: 
       edges: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: d6e0cbb638e044c4fbc7a165991303ed
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BarraLlena_OM_0: 2376261664402524000
+      Controles_OM_0: 2815674692832303867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
