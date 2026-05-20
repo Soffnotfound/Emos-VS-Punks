@@ -122,8 +122,12 @@ MonoBehaviour:
   availableStyles:
   - styleName: Punk
     styleSprite: {fileID: -474158302484046920, guid: 194d2012c1f1f7b4fa7d604227541ed8, type: 3}
+    pressedSprite: {fileID: 8128047887456599541, guid: d833e4e4030e98d43ae8f27a33a41fe4, type: 3}
   - styleName: Emo
     styleSprite: {fileID: -8401657358481925751, guid: e65ccb535c3f97648af68ca4bd243bd8, type: 3}
+    pressedSprite: {fileID: -4270570074306006571, guid: 8493fa05900d0a741b42a7a04d882702, type: 3}
+  keyToPress: 0
+  directionIndex: 2
 --- !u!61 &6974225881301337044
 BoxCollider2D:
   m_ObjectHideFlags: 0

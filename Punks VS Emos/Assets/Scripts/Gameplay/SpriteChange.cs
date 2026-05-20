@@ -8,10 +8,15 @@ public class SpriteChange : MonoBehaviour
     {
         public string styleName;
         public Sprite styleSprite;
+        public Sprite pressedSprite;
     }
 
     public StyleData[] availableStyles;
     private SpriteRenderer spriteRenderer;
+    public KeyCode keyToPress;
+    public int directionIndex;
+
+    private bool isPressed = false;
 
     void Awake()
     {
@@ -46,12 +51,44 @@ public class SpriteChange : MonoBehaviour
                 {
                     //Debug.Log("If 2");
 
-                    spriteRenderer.sprite = data.styleSprite;
+                    if(isPressed && data.pressedSprite != null)
+                    {
+                        //Debug.Log("If 3 - Presionado");
+                        spriteRenderer.sprite = data.pressedSprite;
+                    }
+                    else
+                    {
+                        //Debug.Log("If 3 - No presionado");
+                        spriteRenderer.sprite = data.styleSprite;
+                    }
+
+                    //spriteRenderer.sprite = data.styleSprite;
                     return;
                 }
             }
         }
 
         //Debug.Log($"Estilo '{style}' no encontrado");
+    }
+
+    public void OnTriggerEnter2D(Collider2D other)
+    {
+        isPressed = true;
+        // Debug.Log("Tiempo global: " + GameManager.tiempoJuegoGlobal);
+        // if (other.gameObject.tag == "NPC")
+        // {
+        //     spriteRenderer.sprite = pressedImage;
+        //     NPCController.instance.SetPressed(directionIndex);
+        // }
+    }
+
+    public void OnTriggerExit2D(Collider2D other)
+    {
+        isPressed = false;
+        // if (other.gameObject.tag == "NPC")
+        // {
+        //     spriteRenderer.sprite = defaultImage;
+        //     NPCController.instance.SetPressed(0);
+        // }
     }
 }

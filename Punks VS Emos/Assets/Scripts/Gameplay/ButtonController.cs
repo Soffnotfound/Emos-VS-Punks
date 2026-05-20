@@ -6,7 +6,7 @@ public class ButtonController : MonoBehaviour
     public Sprite defaultImage;
     public Sprite pressedImage;
     public KeyCode keyToPress;
-    public int directionIndex = 1; 
+    public static int directionIndex = 1;
 
     void Start()
     {
@@ -26,8 +26,9 @@ public class ButtonController : MonoBehaviour
         }
     }
 
-    public  void OnTriggerEnter2D(Collider2D other)
+    public void OnTriggerEnter2D(Collider2D other)
     {
+        //Debug.Log("Tiempo global: " + GameManager.tiempoJuegoGlobal);
         if (other.gameObject.tag == "NPC")
         {
             theSR.sprite = pressedImage;
@@ -35,7 +36,7 @@ public class ButtonController : MonoBehaviour
         }
     }
 
-    public  void OnTriggerExit2D(Collider2D other)
+    public void OnTriggerExit2D(Collider2D other)
     {
         if (other.gameObject.tag == "NPC")
         {

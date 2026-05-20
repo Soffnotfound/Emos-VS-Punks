@@ -6,6 +6,8 @@ using UnityEngine;
 
 public class NoteSpawner : MonoBehaviour
 {
+
+    public int lineasPorSegundo = 3;
     public static event Action<string> OnSpriteStyleChange;
     
     string[][] notas;
@@ -26,8 +28,8 @@ public class NoteSpawner : MonoBehaviour
     {
         string archivo = File.ReadAllText("Assets/Scripts/Gameplay/notas.csv");
 
-        Debug.Log("Archivo leído:");
-        Debug.Log(archivo);
+        //Debug.Log("Archivo leído:");
+        //Debug.Log(archivo);
         string[] lineas;
         lineas = archivo.Split(new char[] { '\n' }, System.StringSplitOptions.RemoveEmptyEntries);
         notas = new string[lineas.Length][];
@@ -41,12 +43,10 @@ public class NoteSpawner : MonoBehaviour
     void Update()
     {
         tiempo += Time.deltaTime;
-        if (tiempo * 2 > lineas)
+        if (tiempo * lineasPorSegundo > lineas)
         {
             string[] linea = notas[lineas];
-            Debug.Log(
-                "Tiempo: " + tiempo + " Linea: " + lineas + "Notas: " + string.Join(", ", linea)
-            );
+            //Debug.Log("Tiempo: " + tiempo + " Linea: " + lineas + "Notas: " + string.Join(", ", linea);
             lineas++;
             for (int i = 0; i < 4; i++)
             {
@@ -78,7 +78,7 @@ public class NoteSpawner : MonoBehaviour
                             Instantiate(notaDerechaPunk, posicion, UnityEngine.Quaternion.identity);
                             break;
                     }
-                    Debug.Log("Nota creada en posición: " + posicion);
+                    //Debug.Log("Nota creada en posición: " + posicion);
                 }
                 else if (linea[i].Equals("Emo"))
                 {
@@ -108,13 +108,13 @@ public class NoteSpawner : MonoBehaviour
                             Instantiate(notaDerechaEmo, posicion, UnityEngine.Quaternion.identity);
                             break;
                     }
-                    Debug.Log("Nota creada en posición: " + posicion);
+                    //Debug.Log("Nota creada en posición: " + posicion);
                 }
             }
             //Codigo para la ultima linea
             if (linea.Length >= 5)
             {
-                Debug.Log("Cambio de estilo detectado: " + linea[4]);
+                //Debug.Log("Cambio de estilo detectado: " + linea[4]);
                 string estilo = linea[4];
                 OnSpriteStyleChange?.Invoke(estilo);
             }
