@@ -14,6 +14,7 @@ public class MenuScript : MonoBehaviour
         Controls,
     };
 
+    public GameObject splashScreen;
     public GameObject mainMenu;
     public GameObject levelMenu;
     public GameObject optionsMenu;
@@ -22,7 +23,8 @@ public class MenuScript : MonoBehaviour
 
     void Start()
     {
-        mainMenu.SetActive(true);
+        splashScreen.SetActive(true);
+        mainMenu.SetActive(false);
         levelMenu.SetActive(false);
         optionsMenu.SetActive(false);
         creditsMenu.SetActive(false);
@@ -86,7 +88,7 @@ public class MenuScript : MonoBehaviour
         GameObject newState;
 
         switch (menu)
-        {
+        {          
             case MenuStates.Main:
                 newState = mainMenu;
                 break;
