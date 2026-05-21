@@ -14,7 +14,7 @@ public class NoteObject : MonoBehaviour
             {
                 gameObject.SetActive(false);
 
-                GameManager.instance.NoteHit();
+                kk.NoteHit();
             }
         }
     }
@@ -29,12 +29,13 @@ public class NoteObject : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other)
     {
+        
         if (other.tag == "Activator")
         {
             canBePressed = false;
             if (gameObject.activeSelf)
             {
-                GameManager.instance.NoteMissed();
+                kk.NoteMissed();
             }
         }
     }

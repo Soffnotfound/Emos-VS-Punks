@@ -13,7 +13,7 @@ public class NPCController : MonoBehaviour
 
     public void SetPressed(int direction)
     {
-        //Debug.Log("Received direction: " + direction);
+        Debug.Log("Received direction: " + direction);
 
         theAnimator.SetInteger("Direction", direction);
     }

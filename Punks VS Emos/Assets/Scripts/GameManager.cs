@@ -13,8 +13,9 @@ public class GameManager : MonoBehaviour
     public bool startPlaying;
 
     [Header("Life Settings")]
-    public static int MaxLives = 5;
-    [NonSerialized] public static int CurrentLives;
+    public static int MaxLives;
+    [SerializeField] 
+    public static int CurrentLives;
     //public BeatScroller theBS;
     
     public static float tiempoJuegoGlobal = 0f;
@@ -22,6 +23,7 @@ public class GameManager : MonoBehaviour
 
     void Awake()
     {
+        MaxLives = 5;
         instance = this;
 
         theMusic.time = musicStartTime;
@@ -43,6 +45,8 @@ public class GameManager : MonoBehaviour
         //theMusic.Play();
         //}
         //}
+
+        //Debug.Log("Current Lives: " + GameManager.CurrentLives);
     }
 
     private IEnumerator PlaySong()
@@ -51,20 +55,20 @@ public class GameManager : MonoBehaviour
         theMusic.Play();
     }
 
-    public void NoteHit()
-    {
-        Debug.Log("Hit on time, añadir script de Destroy");
-    }
+    // public void NoteHit()
+    // {
+    //     Debug.Log("Hit on time, añadir script de Destroy");
+    // }
 
-    public void NoteMissed()
-    {
-        CurrentLives--;
-        Debug.Log("Missed note! Lives left: " + CurrentLives + "/" + MaxLives);
+    // public void NoteMissed()
+    // {
+    //     CurrentLives--;
+    //     Debug.Log("Missed note! Lives left: " + CurrentLives + "/" + MaxLives);
 
-        if (CurrentLives <= 0)
-        {
-            Debug.Log("Game Over!");
-        }
-    }
+    //     if (CurrentLives <= 0)
+    //     {
+    //         Debug.Log("Game Over!");
+    //     }
+    // }
 
 }
