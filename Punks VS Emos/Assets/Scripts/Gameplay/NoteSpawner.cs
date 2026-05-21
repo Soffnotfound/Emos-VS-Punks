@@ -1,0 +1,123 @@
+using System.Collections;
+using System.IO;
+using System.Numerics;
+using System;
+using UnityEngine;
+
+public class NoteSpawner : MonoBehaviour
+{
+
+    public int lineasPorSegundo = 3;
+    public static event Action<string> OnSpriteStyleChange;
+    
+    string[][] notas;
+    float tiempo = 0;
+    int lineas = 0;
+
+    public GameObject notaIzquierdaPunk;
+    public GameObject notaArribaPunk;
+    public GameObject notaAbajoPunk;
+    public GameObject notaDerechaPunk;
+
+    public GameObject notaIzquierdaEmo;
+    public GameObject notaArribaEmo;
+    public GameObject notaAbajoEmo;
+    public GameObject notaDerechaEmo;
+
+    void Start()
+    {
+        string archivo = File.ReadAllText("Assets/Scripts/Gameplay/notas.csv");
+
+        //Debug.Log("Archivo leído:");
+        //Debug.Log(archivo);
+        string[] lineas;
+        lineas = archivo.Split(new char[] { '\n' }, System.StringSplitOptions.RemoveEmptyEntries);
+        notas = new string[lineas.Length][];
+        for (int i = 0; i < lineas.Length; i++)
+        {
+            notas[i] = lineas[i]
+                .Split(new char[] { ';' }, System.StringSplitOptions.RemoveEmptyEntries);
+        }
+    }
+
+    void Update()
+    {
+        tiempo += Time.deltaTime;
+        if (tiempo * lineasPorSegundo > lineas)
+        {
+            string[] linea = notas[lineas];
+            //Debug.Log("Tiempo: " + tiempo + " Linea: " + lineas + "Notas: " + string.Join(", ", linea);
+            lineas++;
+            for (int i = 0; i < 4; i++)
+            {
+                if (linea[i].Equals("Punk"))
+                {
+                    UnityEngine.Vector3 posicion = transform.position;
+                    switch (i)
+                    {
+                        case 0:
+                            posicion.x -= 2f;
+                            Instantiate(
+                                notaIzquierdaPunk,
+                                posicion,
+                                UnityEngine.Quaternion.identity
+                            );
+                            break;
+                        case 1:
+                            posicion.x -= 0.6666f;
+                            Instantiate(notaArribaPunk, posicion, UnityEngine.Quaternion.identity);
+
+                            break;
+                        case 2:
+                            posicion.x += 0.6666f;
+                            Instantiate(notaAbajoPunk, posicion, UnityEngine.Quaternion.identity);
+
+                            break;
+                        case 3:
+                            posicion.x += 2f;
+                            Instantiate(notaDerechaPunk, posicion, UnityEngine.Quaternion.identity);
+                            break;
+                    }
+                    //Debug.Log("Nota creada en posición: " + posicion);
+                }
+                else if (linea[i].Equals("Emo"))
+                {
+                    UnityEngine.Vector3 posicion = transform.position;
+                    switch (i)
+                    {
+                        case 0:
+                            posicion.x -= 2f;
+                            Instantiate(
+                                notaIzquierdaEmo,
+                                posicion,
+                                UnityEngine.Quaternion.identity
+                            );
+                            break;
+                        case 1:
+                            posicion.x -= 0.6666f;
+                            Instantiate(notaArribaEmo, posicion, UnityEngine.Quaternion.identity);
+
+                            break;
+                        case 2:
+                            posicion.x += 0.6666f;
+                            Instantiate(notaAbajoEmo, posicion, UnityEngine.Quaternion.identity);
+
+                            break;
+                        case 3:
+                            posicion.x += 2f;
+                            Instantiate(notaDerechaEmo, posicion, UnityEngine.Quaternion.identity);
+                            break;
+                    }
+                    //Debug.Log("Nota creada en posición: " + posicion);
+                }
+            }
+            //Codigo para la ultima linea
+            if (linea.Length >= 5)
+            {
+                //Debug.Log("Cambio de estilo detectado: " + linea[4]);
+                string estilo = linea[4];
+                OnSpriteStyleChange?.Invoke(estilo);
+            }
+        }
+    }
+}

@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: bb7ba26213e7522468717005dc088ece
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -849644284463788585
+    second: E-Spritesheet_0
+  - first:
+      213: 4188653631085212290
+    second: E-Spritesheet_1
+  - first:
+      213: 8852515749908735675
+    second: E-Spritesheet_2
+  - first:
+      213: -2455685597173228790
+    second: E-Spritesheet_3
+  - first:
+      213: 3338462734392012867
+    second: E-Spritesheet_4
+  - first:
+      213: -3880762107106729525
+    second: E-Spritesheet_5
+  - first:
+      213: -6295315229444483721
+    second: E-Spritesheet_6
+  - first:
+      213: -1534855732464562161
+    second: E-Spritesheet_7
+  - first:
+      213: 9039811779878909217
+    second: E-Spritesheet_8
+  - first:
+      213: 3153826978049787860
+    second: E-Spritesheet_9
+  - first:
+      213: 7493912953972133443
+    second: E-Spritesheet_10
+  - first:
+      213: -2354305084755424602
+    second: E-Spritesheet_11
+  - first:
+      213: 8183205433857897632
+    second: E-Spritesheet_12
+  - first:
+      213: 6857072920071892828
+    second: E-Spritesheet_13
+  - first:
+      213: 3455694728508786603
+    second: E-Spritesheet_14
+  - first:
+      213: -299845954570346263
+    second: E-Spritesheet_15
+  - first:
+      213: -3033086874578302436
+    second: E-Spritesheet_16
+  - first:
+      213: 7937132997262049548
+    second: E-Spritesheet_17
+  - first:
+      213: -1530238070952647327
+    second: E-Spritesheet_18
+  - first:
+      213: 3767311063399672553
+    second: E-Spritesheet_19
+  - first:
+      213: 7710559647690524812
+    second: E-Spritesheet_20
+  - first:
+      213: 8768552942295285320
+    second: E-Spritesheet_21
+  - first:
+      213: -3000912554124840449
+    second: E-Spritesheet_22
+  - first:
+      213: -8840741664787920862
+    second: E-Spritesheet_23
+  - first:
+      213: 7861338775202594255
+    second: E-Spritesheet_24
+  - first:
+      213: 1564672011310661556
+    second: E-Spritesheet_25
+  - first:
+      213: 8506512666404251088
+    second: E-Spritesheet_26
+  - first:
+      213: -5043532064989297539
+    second: E-Spritesheet_27
+  - first:
+      213: 2246352474498627076
+    second: E-Spritesheet_28
+  - first:
+      213: 6456828344806759296
+    second: E-Spritesheet_29
+  - first:
+      213: 3519864050315762136
+    second: E-Spritesheet_30
+  - first:
+      213: 1527818646752367931
+    second: E-Spritesheet_31
+  - first:
+      213: 6707179688819104142
+    second: E-Spritesheet_32
+  - first:
+      213: -157876520410545342
+    second: E-Spritesheet_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: E-Novel-Idle-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1452
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd481f56057534f0800000000000000
+      internalID: -849644284463788585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Idle-2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1452
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282fbf7f846112a30800000000000000
+      internalID: 4188653631085212290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Idle-3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1452
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb66cd10c247ada70800000000000000
+      internalID: 8852515749908735675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Idle-4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1452
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b527cc5f6abedd0800000000000000
+      internalID: -2455685597173228790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Talk-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1210
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340b0534b2a945e20800000000000000
+      internalID: 3338462734392012867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Talk-2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1210
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc16b1cbc63c42ac0800000000000000
+      internalID: -3880762107106729525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Talk-3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1210
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775dadf172c82a8a0800000000000000
+      internalID: -6295315229444483721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Talk-4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1210
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005af4e7d813bae0800000000000000
+      internalID: -1534855732464562161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Shy-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125f2183becd37d70800000000000000
+      internalID: 9039811779878909217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Shy-2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 968
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d783b54de4a4cb20800000000000000
+      internalID: 3153826978049787860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Shy-3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 968
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e053f802abff760800000000000000
+      internalID: 7493912953972133443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Shy-4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 968
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aac142cff3d35fd0800000000000000
+      internalID: -2354305084755424602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Shy-5
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 968
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a475215cf5909170800000000000000
+      internalID: 8183205433857897632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Novel-Shy-7
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 968
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fe5df8d77392f50800000000000000
+      internalID: 6857072920071892828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Idle-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7c4f8eb0815ff20800000000000000
+      internalID: 3455694728508786603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Idle-2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 726
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e02f7661bbb6dbf0800000000000000
+      internalID: -299845954570346263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Idle-3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 726
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a4cdbbe8f48e5d0800000000000000
+      internalID: -3033086874578302436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Idle-4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 726
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0106d4886c562e60800000000000000
+      internalID: 7937132997262049548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Idle-5
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 726
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a61ff49083cae0800000000000000
+      internalID: -1530238070952647327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Left-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea265cb37d284430800000000000000
+      internalID: 3767311063399672553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Left-2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 484
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c880e04b529610b60800000000000000
+      internalID: 7710559647690524812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Left-3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 484
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e77b7717820b970800000000000000
+      internalID: 8768552942295285320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Left-4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 484
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f0697eed9a56d0800000000000000
+      internalID: -3000912554124840449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Left-5
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 484
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228025fcb406f4580800000000000000
+      internalID: -8840741664787920862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Down-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd74f207f5191d60800000000000000
+      internalID: 7861338775202594255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Down-2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 242
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bffa2087e4d6b510800000000000000
+      internalID: 1564672011310661556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Down-3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 244
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5e26e53343d0670800000000000000
+      internalID: 8506512666404251088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Down-4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 242
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7445050f46c10ab0800000000000000
+      internalID: -5043532064989297539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Down-5
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 242
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4067fc28ca5ac2f10800000000000000
+      internalID: 2246352474498627076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Right-1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b51eb7b234b9950800000000000000
+      internalID: 6456828344806759296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Right-2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d91db864b119d030800000000000000
+      internalID: 3519864050315762136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Right-3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 0
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3594e8e6f6e33510800000000000000
+      internalID: 1527818646752367931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Right-4
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8917cc0460b41d50800000000000000
+      internalID: 6707179688819104142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: E-Dance-Right-5
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 0
+        width: 241
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2430e82242c1fcdf0800000000000000
+      internalID: -157876520410545342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: df86d0ae555030a49b9b3817e161c18f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      E-Dance-Down-1: 7861338775202594255
+      E-Dance-Down-2: 1564672011310661556
+      E-Dance-Down-3: 8506512666404251088
+      E-Dance-Down-4: -5043532064989297539
+      E-Dance-Down-5: 2246352474498627076
+      E-Dance-Idle-1: 3455694728508786603
+      E-Dance-Idle-2: -299845954570346263
+      E-Dance-Idle-3: -3033086874578302436
+      E-Dance-Idle-4: 7937132997262049548
+      E-Dance-Idle-5: -1530238070952647327
+      E-Dance-Left-1: 3767311063399672553
+      E-Dance-Left-2: 7710559647690524812
+      E-Dance-Left-3: 8768552942295285320
+      E-Dance-Left-4: -3000912554124840449
+      E-Dance-Left-5: -8840741664787920862
+      E-Dance-Right-1: 6456828344806759296
+      E-Dance-Right-2: 3519864050315762136
+      E-Dance-Right-3: 1527818646752367931
+      E-Dance-Right-4: 6707179688819104142
+      E-Dance-Right-5: -157876520410545342
+      E-Novel-Idle-1: -849644284463788585
+      E-Novel-Idle-2: 4188653631085212290
+      E-Novel-Idle-3: 8852515749908735675
+      E-Novel-Idle-4: -2455685597173228790
+      E-Novel-Shy-1: 9039811779878909217
+      E-Novel-Shy-2: 3153826978049787860
+      E-Novel-Shy-3: 7493912953972133443
+      E-Novel-Shy-4: -2354305084755424602
+      E-Novel-Shy-5: 8183205433857897632
+      E-Novel-Shy-7: 6857072920071892828
+      E-Novel-Talk-1: 3338462734392012867
+      E-Novel-Talk-2: -3880762107106729525
+      E-Novel-Talk-3: -6295315229444483721
+      E-Novel-Talk-4: -1534855732464562161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

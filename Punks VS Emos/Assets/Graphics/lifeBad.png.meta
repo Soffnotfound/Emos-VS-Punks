@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 50ad124d5c47b714a8fd2b5b1d485e5f
+guid: c95dffc25c45d63469df6c574aaae7dd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6786160455969398021
-    second: Boceto Menu_0
+      213: 2342688708835030626
+    second: lifeBad_0
+  - first:
+      213: 803919208225548308
+    second: lifeBad_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,12 +49,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 36
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +78,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Boceto Menu_0
+      name: lifeBad_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1600
-        height: 900
+        width: 28
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50ddbd6eaf84d2e50800000000000000
-      internalID: 6786160455969398021
+      spriteID: 2663e65f7f6e28020800000000000000
+      internalID: 2342688708835030626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lifeBad_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418a562b248182b00800000000000000
+      internalID: 803919208225548308
       vertices: []
       indices: 
       edges: []
@@ -125,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Boceto Menu_0: 6786160455969398021
+      lifeBad_0: 2342688708835030626
+      lifeBad_1: 803919208225548308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
