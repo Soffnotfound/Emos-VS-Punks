@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArrowDownPunk
       objectReference: {fileID: 0}
+    - target: {fileID: 8501962854223479906, guid: d9985ca2e9f276542862195ec65dfbd6, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 491782003, guid: 64cfbfc5acf732846ab0e003745198e4, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

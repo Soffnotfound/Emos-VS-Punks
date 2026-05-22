@@ -38,6 +38,7 @@ public class kk : MonoBehaviour
     {
         CurrentLives--;
         Debug.Log("Missed note! Lives left: " + CurrentLives + "/" + MaxLives);
+        LifeController.isLifeLost = true;
 
         if (CurrentLives <= 0)
         {
