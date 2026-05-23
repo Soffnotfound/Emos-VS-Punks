@@ -1,9 +1,12 @@
+using System.Collections;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
     [SerializeField]
-    private Animator _animator;
+    public static Animator _animator;
+
+    public float failAnimationDuration = 1f;
 
     [Header("Keyboard Controls")]
     [SerializeField]
@@ -18,6 +21,21 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private KeyCode rightDance = KeyCode.K;
 
+    void OnEnable()
+    {
+        GameManager.FailEvent += HandleFailEvent;
+    }
+
+    void OnDisable()
+    {
+        GameManager.FailEvent -= HandleFailEvent;
+    }
+
+    void Start()
+    {
+        _animator = GetComponent<Animator>();
+    }
+
     void Update()
     {
         //movimiento derecha
@@ -30,7 +48,6 @@ public class PlayerController : MonoBehaviour
             _animator.SetBool("isDanceLeft", false);
         }
 
-
         //movimiento arriba
         if (Input.GetKeyDown(upDance))
         {
@@ -40,7 +57,6 @@ public class PlayerController : MonoBehaviour
         {
             _animator.SetBool("isDanceUp", false);
         }
-
 
         //movimiento abajo
         if (Input.GetKeyDown(downDance))
@@ -62,4 +78,18 @@ public class PlayerController : MonoBehaviour
             _animator.SetBool("isDanceRight", false);
         }
     }
+
+    private void HandleFailEvent(bool failed)
+    {
+        StartCoroutine(ResetFailAnimation(failed));
+    }
+
+    private IEnumerator ResetFailAnimation(bool failed)
+    {
+        _animator.SetTrigger("Fail");
+
+        yield return new WaitForSeconds(failAnimationDuration);
+    }
 }
+
+//me voya  suicidar
