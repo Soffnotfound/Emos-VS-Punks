@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class kk : MonoBehaviour
@@ -20,6 +21,7 @@ public class kk : MonoBehaviour
 
     public static float tiempoJuegoGlobal = 0f;
 
+    public static Action<int> LivesLost;
 
     void Awake()
     {
@@ -37,6 +39,7 @@ public class kk : MonoBehaviour
     public static void NoteMissed()
     {
         CurrentLives--;
+        /*
         Debug.Log("Missed note! Lives left: " + CurrentLives + "/" + MaxLives);
         LifeController.isLifeLost = true;
 
@@ -44,5 +47,8 @@ public class kk : MonoBehaviour
         {
             Debug.Log("Game Over!");
         }
+        */
+
+        LivesLost?.Invoke(CurrentLives);
     }
 }

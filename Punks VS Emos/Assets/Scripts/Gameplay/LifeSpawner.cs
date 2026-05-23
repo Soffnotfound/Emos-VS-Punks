@@ -6,7 +6,6 @@ using UnityEngine;
 public class LifeSpawner : MonoBehaviour
 {
 
-        public static event Action<string> OnLifeChange;
 
     public GameObject LifePrefab;
     private GameObject[] lifeInstances;
@@ -24,14 +23,13 @@ public class LifeSpawner : MonoBehaviour
             posicion.y -= i * spacing;
 
             //instanciar la vida
-            lifeInstances = new GameObject[kk.MaxLives];
-            lifeInstances[i] = Instantiate(LifePrefab, posicion, UnityEngine.Quaternion.identity);
+            GameObject vidaActual = Instantiate(LifePrefab, posicion, UnityEngine.Quaternion.identity);
             //Debug.Log("Spawning life " + (i + 1) + "/" + kk.MaxLives);
 
-            //hace que la vida sea hija del spawn point
-            lifeInstances[i].transform.SetParent(spawnPoint);
+            vidaActual.transform.SetParent(spawnPoint);
 
-            lifeScript[i] = lifeInstances[i].GetComponent<LifeController>();
+            LifeController lifeController= vidaActual.GetComponent<LifeController>();
+            lifeController.lifeNum = i + 1;
 
             // lifeChild[i] = lifeInstances[i].transform.gameObject;
 
