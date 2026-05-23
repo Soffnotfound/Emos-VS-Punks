@@ -139,7 +139,7 @@ Animator:
   m_GameObject: {fileID: 9686077}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -203,6 +203,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -262,6 +266,10 @@ PrefabInstance:
     - target: {fileID: 1380988847928987900, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_Name
       value: ArrowLeftPunk (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -388,7 +396,7 @@ Animator:
   m_GameObject: {fileID: 43522803}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -420,7 +428,7 @@ Animator:
   m_GameObject: {fileID: 51230375}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -541,6 +549,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -628,7 +640,7 @@ Animator:
   m_GameObject: {fileID: 145985851}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -660,7 +672,7 @@ Animator:
   m_GameObject: {fileID: 147461298}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -724,6 +736,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -752,7 +768,7 @@ Animator:
   m_GameObject: {fileID: 162261915}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -851,7 +867,7 @@ Animator:
   m_GameObject: {fileID: 178725905}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -924,6 +940,10 @@ PrefabInstance:
     - target: {fileID: 6142870207222464717, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1000,6 +1020,10 @@ PrefabInstance:
     - target: {fileID: 1685108560535353419, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
@@ -1118,6 +1142,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
       value: ArrowRightPunk (2)
@@ -1182,6 +1210,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1210,7 +1242,7 @@ Animator:
   m_GameObject: {fileID: 282637496}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1281,7 +1313,7 @@ Animator:
   m_GameObject: {fileID: 286374208}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1411,7 +1443,7 @@ Animator:
   m_GameObject: {fileID: 328002837}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1527,6 +1559,10 @@ PrefabInstance:
     - target: {fileID: 1685108560535353419, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
@@ -1756,6 +1792,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
       value: ArrowDownPunk
@@ -1788,7 +1828,7 @@ Animator:
   m_GameObject: {fileID: 379918428}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1873,6 +1913,10 @@ PrefabInstance:
     - target: {fileID: 1380988847928987900, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_Name
       value: ArrowLeftPunk (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1991,6 +2035,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArrowLeftPunk (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.011
@@ -2059,7 +2107,7 @@ Animator:
   m_GameObject: {fileID: 403988001}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2082,6 +2130,10 @@ PrefabInstance:
     - target: {fileID: 1380988847928987900, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_Name
       value: ArrowLeftPunk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2304,7 +2356,7 @@ Animator:
   m_GameObject: {fileID: 422839280}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2363,6 +2415,10 @@ PrefabInstance:
     - target: {fileID: 1504489471784202049, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
@@ -2424,6 +2480,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
       value: ArrowRightPunk
@@ -2466,7 +2526,7 @@ Animator:
   m_GameObject: {fileID: 454849152}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2570,6 +2630,10 @@ PrefabInstance:
     - target: {fileID: 1685108560535353419, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
@@ -2698,6 +2762,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
       value: ArrowDownPunk (1)
@@ -2758,6 +2826,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
       value: ArrowDownPunk
@@ -2790,7 +2862,7 @@ Animator:
   m_GameObject: {fileID: 493311123}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2906,6 +2978,10 @@ PrefabInstance:
     - target: {fileID: 1685108560535353419, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
@@ -3076,7 +3152,7 @@ Animator:
   m_GameObject: {fileID: 530283546}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3158,7 +3234,7 @@ Animator:
   m_GameObject: {fileID: 574439273}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3314,7 +3390,7 @@ Animator:
   m_GameObject: {fileID: 599118048}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3473,7 +3549,7 @@ Animator:
   m_GameObject: {fileID: 630964231}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3532,6 +3608,10 @@ PrefabInstance:
     - target: {fileID: 1504489471784202049, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
@@ -3642,7 +3722,7 @@ Animator:
   m_GameObject: {fileID: 728231481}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -3808,7 +3888,7 @@ Animator:
   m_GameObject: {fileID: 792042560}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -4187,6 +4267,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
       value: ArrowRightPunk
@@ -4318,6 +4402,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4356,7 +4444,7 @@ Animator:
   m_GameObject: {fileID: 919310683}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -4388,7 +4476,7 @@ Animator:
   m_GameObject: {fileID: 933238725}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -4508,6 +4596,10 @@ PrefabInstance:
     - target: {fileID: 6142870207222464717, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4829,7 +4921,7 @@ Animator:
   m_GameObject: {fileID: 988381049}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -5115,6 +5207,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
       value: ArrowDownPunk (1)
@@ -5244,7 +5340,7 @@ Animator:
   m_GameObject: {fileID: 1083097920}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -5313,6 +5409,10 @@ PrefabInstance:
     - target: {fileID: 1504489471784202049, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
@@ -5413,7 +5513,7 @@ Animator:
   m_GameObject: {fileID: 1102731143}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -5452,6 +5552,10 @@ PrefabInstance:
     - target: {fileID: 1380988847928987900, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_Name
       value: ArrowLeftPunk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5552,6 +5656,10 @@ PrefabInstance:
     - target: {fileID: 6142870207222464717, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5695,7 +5803,7 @@ Animator:
   m_GameObject: {fileID: 1206541510}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -5985,6 +6093,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6023,7 +6135,7 @@ Animator:
   m_GameObject: {fileID: 1260797838}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -6083,6 +6195,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
       value: ArrowRightPunk (1)
@@ -6141,6 +6257,10 @@ PrefabInstance:
     - target: {fileID: 1380988847928987900, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_Name
       value: ArrowLeftPunk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6238,6 +6358,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
       value: ArrowRightPunk (1)
@@ -6270,7 +6394,7 @@ Animator:
   m_GameObject: {fileID: 1290472711}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -6426,6 +6550,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
       value: ArrowDownPunk
@@ -6458,7 +6586,7 @@ Animator:
   m_GameObject: {fileID: 1330639065}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -6521,6 +6649,10 @@ PrefabInstance:
     - target: {fileID: 6142870207222464717, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6600,7 +6732,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1685108560535353419, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 32.756504
+      value: -3.6
       objectReference: {fileID: 0}
     - target: {fileID: 1685108560535353419, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6633,6 +6765,10 @@ PrefabInstance:
     - target: {fileID: 1685108560535353419, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
@@ -6676,7 +6812,7 @@ Animator:
   m_GameObject: {fileID: 1393644801}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -6708,7 +6844,7 @@ Animator:
   m_GameObject: {fileID: 1411668743}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -6896,6 +7032,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6924,7 +7064,7 @@ Animator:
   m_GameObject: {fileID: 1463357375}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -7147,7 +7287,7 @@ Animator:
   m_GameObject: {fileID: 1509111923}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -7207,6 +7347,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
       value: ArrowDownPunk (1)
@@ -7239,7 +7383,7 @@ Animator:
   m_GameObject: {fileID: 1528478781}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -7341,6 +7485,10 @@ PrefabInstance:
     - target: {fileID: 1380988847928987900, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_Name
       value: ArrowLeftPunk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7505,6 +7653,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
       value: ArrowRightPunk
@@ -7594,7 +7746,7 @@ Animator:
   m_GameObject: {fileID: 1603676045}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -7626,7 +7778,7 @@ Animator:
   m_GameObject: {fileID: 1606900170}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -7685,6 +7837,10 @@ PrefabInstance:
     - target: {fileID: 1504489471784202049, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
@@ -7789,7 +7945,7 @@ Animator:
   m_GameObject: {fileID: 1617576746}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -7888,7 +8044,7 @@ Animator:
   m_GameObject: {fileID: 1644695341}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -8087,7 +8243,7 @@ Animator:
   m_GameObject: {fileID: 1677001846}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -8119,7 +8275,7 @@ Animator:
   m_GameObject: {fileID: 1697848868}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -8154,13 +8310,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArrowLeftPunk
       objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.011
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 36.02143
+      value: -0.33507156
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.z
@@ -8222,7 +8382,7 @@ Animator:
   m_GameObject: {fileID: 1719105007}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -8388,7 +8548,7 @@ Animator:
   m_GameObject: {fileID: 1798836399}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -8440,7 +8600,7 @@ Animator:
   m_GameObject: {fileID: 1812259569}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -8520,6 +8680,10 @@ PrefabInstance:
     - target: {fileID: 1380988847928987900, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_Name
       value: ArrowLeftPunk (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8687,7 +8851,7 @@ Animator:
   m_GameObject: {fileID: 1883465153}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -8751,6 +8915,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8810,6 +8978,10 @@ PrefabInstance:
     - target: {fileID: 6142870207222464717, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8912,6 +9084,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4377979364014836038, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
+      propertyPath: direction
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 8572109756585573727, guid: 7b14e4600fd84fa409f364ebb92ae256, type: 3}
       propertyPath: m_Name
       value: ArrowDownPunk
@@ -8944,7 +9120,7 @@ Animator:
   m_GameObject: {fileID: 1944983947}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -8976,7 +9152,7 @@ Animator:
   m_GameObject: {fileID: 1946392717}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -9036,6 +9212,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
       value: ArrowRightPunk (1)
@@ -9078,7 +9258,7 @@ Animator:
   m_GameObject: {fileID: 1962372343}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -9195,6 +9375,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
       value: ArrowRightPunk
@@ -9227,7 +9411,7 @@ Animator:
   m_GameObject: {fileID: 1980286894}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -9344,6 +9528,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4558211768269577804, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
+      propertyPath: direction
+      value: 4
+      objectReference: {fileID: 0}
     - target: {fileID: 8463935038174505557, guid: 751ae9eb129e7b44aa6780de3d155230, type: 3}
       propertyPath: m_Name
       value: ArrowRightPunk (1)
@@ -9407,6 +9595,10 @@ PrefabInstance:
     - target: {fileID: 6142870207222464717, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9525,6 +9717,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9585,6 +9781,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9615,6 +9815,10 @@ PrefabInstance:
     - target: {fileID: 1380988847928987900, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_Name
       value: ArrowLeftPunk
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9704,7 +9908,7 @@ Animator:
   m_GameObject: {fileID: 2064642340}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -9736,7 +9940,7 @@ Animator:
   m_GameObject: {fileID: 2100047746}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -9784,7 +9988,7 @@ Animator:
   m_GameObject: {fileID: 2118337925}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -9847,6 +10051,10 @@ PrefabInstance:
     - target: {fileID: 6142870207222464717, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9123408493140177344, guid: 6b536d69065d84e43b3d208b6c0c2548, type: 3}
+      propertyPath: direction
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9970,6 +10178,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ArrowLeftPunk
       objectReference: {fileID: 0}
+    - target: {fileID: 6421490315860665573, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
+      propertyPath: direction
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8268247367816959464, guid: 5ddf9447bf5c0f84da6412b0f8152323, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.011
@@ -10038,7 +10250,7 @@ Animator:
   m_GameObject: {fileID: 2146391593}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

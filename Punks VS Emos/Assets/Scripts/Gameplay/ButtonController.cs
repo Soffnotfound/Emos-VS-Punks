@@ -5,10 +5,13 @@ public class ButtonController : MonoBehaviour
     private Animator _animator;
 
     public int directionIndex = 0;
+    public KeyCode keyToPress;
+
 
     void Start()
     {
         _animator = GetComponent<Animator>();
+
     }
 
     public void OnTriggerEnter2D(Collider2D other)
@@ -17,6 +20,7 @@ public class ButtonController : MonoBehaviour
         if (other.gameObject.tag == "NPC")
         {
             Debug.Log("NPC presionando botón");
+            _animator.SetBool("PressedByEmo", true);
             NPCController.SetPressed(directionIndex);
         }
     }
@@ -26,6 +30,7 @@ public class ButtonController : MonoBehaviour
         if (other.gameObject.tag == "NPC")
         {
             Debug.Log("NPC dejando de presionar botón");
+            _animator.SetBool("PressedByEmo", false);
             NPCController.SetPressed(0);
         }
     }
@@ -44,9 +49,15 @@ public class ButtonController : MonoBehaviour
         _animator.SetBool("isPunkTurn", true);
     }
 
-    public void isButtonPressed()
+    void Update()
     {
-        //Debug.Log("Botón presionado");
-        _animator.SetBool("isPressed", true);
+        if (Input.GetKeyDown(keyToPress))
+        {
+            _animator.SetBool("PressedByPunk", true);
+        }
+        if (Input.GetKeyUp(keyToPress))
+        {
+            _animator.SetBool("PressedByPunk", false);
+        }
     }
 }

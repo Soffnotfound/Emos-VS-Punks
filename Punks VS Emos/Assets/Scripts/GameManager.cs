@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     public static float tiempoJuegoGlobal = 0f;
 
     public static Action<int> LivesLost;
+    public static Action<bool> NoteHitEvent;
 
     void Awake()
     {
@@ -20,24 +21,15 @@ public class GameManager : MonoBehaviour
         CurrentLives = MaxLives;
     }
 
-    public static void NoteHit()
-    {
-        Debug.Log("Hit on time, añadir script de Destroy");
-    }
+    // public static void NoteHit()
+    // {
+    //     NoteHitEvent?.Invoke(true);
+    //     Debug.Log("Hit on time");
+    // }
 
     public static void NoteMissed()
     {
         CurrentLives--;
         LivesLost?.Invoke(CurrentLives);
-
-        /*
-        Debug.Log("Missed note! Lives left: " + CurrentLives + "/" + MaxLives);
-        LifeController.isLifeLost = true;
-
-        if (CurrentLives <= 0)
-        {
-            Debug.Log("Game Over!");
-        }
-        */
     }
 }

@@ -49,6 +49,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2869659855678787922, guid: d9985ca2e9f276542862195ec65dfbd6, type: 3}
+      propertyPath: direction
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2869659855678787922, guid: d9985ca2e9f276542862195ec65dfbd6, type: 3}
       propertyPath: keyToPress
       value: 100
       objectReference: {fileID: 0}

@@ -8,7 +8,7 @@ public class LifeController : MonoBehaviour
 
     void OnEnable()
     {
-        Debug.Log("enablingLivesLost");
+        //Debug.Log("enablingLivesLost");
         GameManager.LivesLost += HandleLivesLost;
     }
 

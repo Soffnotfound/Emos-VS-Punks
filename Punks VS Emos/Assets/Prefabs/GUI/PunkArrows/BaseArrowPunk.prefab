@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 896238491088412767}
   - component: {fileID: 8501962854223479906}
   - component: {fileID: 2869659855678787922}
-  - component: {fileID: 747442363279109799}
   - component: {fileID: 6800197214840624491}
   - component: {fileID: 332974481340031490}
   m_Layer: 0
@@ -103,22 +102,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d38556e404d62a41bbf597fc0a59980, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  direction: 0
+  disappearDelay: 0.3
   canBePressed: 0
   keyToPress: 0
---- !u!114 &747442363279109799
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7918701496697873739}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ee507c0e6afb2747ae71af8e5bbbf29, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  beatTempo: 180
-  hasStarted: 1
 --- !u!58 &6800197214840624491
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -165,7 +152,7 @@ Animator:
   m_GameObject: {fileID: 7918701496697873739}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 8374917af0af2d14e9e21df5411c2c61, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

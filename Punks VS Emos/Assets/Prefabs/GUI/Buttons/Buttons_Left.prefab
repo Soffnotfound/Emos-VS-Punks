@@ -9,6 +9,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1348876294692411354, guid: f1a37e24224453142914dc1766bc89a7, type: 3}
+      propertyPath: keyToPress
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348876294692411354, guid: f1a37e24224453142914dc1766bc89a7, type: 3}
       propertyPath: directionIndex
       value: 1
       objectReference: {fileID: 0}
@@ -42,7 +46,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8131600062490585591, guid: f1a37e24224453142914dc1766bc89a7, type: 3}
       propertyPath: m_Name
-      value: Buttons_Blue
+      value: Buttons_Left
       objectReference: {fileID: 0}
     - target: {fileID: 9120556594511387967, guid: f1a37e24224453142914dc1766bc89a7, type: 3}
       propertyPath: m_LocalPosition.x
