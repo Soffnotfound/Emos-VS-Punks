@@ -5,75 +5,30 @@ using UnityEngine;
 
 public class LifeSpawner : MonoBehaviour
 {
-
-
     public GameObject LifePrefab;
-    private GameObject[] lifeInstances;
-
-    private LifeController[] lifeScript;
     public Transform spawnPoint;
     public float spacing;
 
     void Start()
     {
-        for (int i = 0; i < kk.MaxLives; i++)
+        for (int i = 0; i < GameManager.MaxLives; i++)
         {
             //cambiar posicion en la que aparece la vida
             UnityEngine.Vector3 posicion = spawnPoint.position;
             posicion.y -= i * spacing;
 
             //instanciar la vida
-            GameObject vidaActual = Instantiate(LifePrefab, posicion, UnityEngine.Quaternion.identity);
-            //Debug.Log("Spawning life " + (i + 1) + "/" + kk.MaxLives);
+            GameObject vidaActual = Instantiate(
+                LifePrefab,
+                posicion,
+                UnityEngine.Quaternion.identity
+            );
+            //Debug.Log("Spawning life " + (i + 1) + "/" + GameManager.MaxLives);
 
             vidaActual.transform.SetParent(spawnPoint);
 
-            LifeController lifeController= vidaActual.GetComponent<LifeController>();
+            LifeController lifeController = vidaActual.GetComponent<LifeController>();
             lifeController.lifeNum = i + 1;
-
-            // lifeChild[i] = lifeInstances[i].transform.gameObject;
-
-            // lifeControllers[i] = lifeChild[i].GetComponent<LifeController>();
-
-            // GameObject lifeInstance = Instantiate(Life, posicion, UnityEngine.Quaternion.identity);
-            // Debug.Log("Spawning life " + (i + 1) + "/" + kk.MaxLives);
-
-            // lifeInstance.transform.SetParent(spawnPoint);
-            // lifeInstances = new GameObject[kk.MaxLives];
-            // lifeInstances[i] = lifeInstance;
-        }
-    }
-
-    void Update()
-    {
-        kk.CurrentLives = Math.Clamp(kk.CurrentLives, 0, kk.MaxLives);
-
-        if (kk.CurrentLives != kk.MaxLives)
-        {
-            UpdateLives();
-        }
-    }
-
-    void UpdateLives()
-    {
-        for (int i = 0; i < kk.MaxLives; i++)
-        {
-            //GameObject lifeTransform = spawnPoint.transform.GetChild(i).transform.gameObject;
-
-            if (i < kk.CurrentLives)
-            {
-                //Debug.Log("Life " + (i + 1) + " is inactive.");
-                //lifeControllers[i].LoseLife();
-                //lifeTransform.SetActive(true);
-                //lifeScript[i].isLifeLost = false;
-                
-            }
-            else
-            {
-                //Debug.Log("Life " + (i + 1) + " is active.");
-                //lifeChild[i].GetComponent<LifeController>().LoseLife();
-                //lifeTransform.SetActive(false);
-            }
         }
     }
 }

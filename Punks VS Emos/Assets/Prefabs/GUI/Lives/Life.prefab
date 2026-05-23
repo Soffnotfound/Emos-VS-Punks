@@ -123,3 +123,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fae4491975ac9941b049d1ad347811a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _animator: {fileID: 0}
+  deathAnimationDelay: 0.7
+  lifeNum: 0
