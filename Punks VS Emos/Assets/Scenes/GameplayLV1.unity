@@ -14033,7 +14033,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf35f3ac83bf3d4469be19e272d03ae2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Life: {fileID: 8078519966246495816, guid: 9766f1d45c1d6e742988e54cd71dba6d, type: 3}
+  LifePrefab: {fileID: 8078519966246495816, guid: 9766f1d45c1d6e742988e54cd71dba6d, type: 3}
   spawnPoint: {fileID: 1858313605}
   spacing: 1.35
 --- !u!1 &1883465153 stripped
