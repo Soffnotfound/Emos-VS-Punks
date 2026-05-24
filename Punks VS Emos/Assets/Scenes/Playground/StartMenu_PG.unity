@@ -696,7 +696,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &179155847
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1048,7 +1048,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.18300001, y: 0.11121922}
   m_AnchorMax: {x: 0.81330526, y: 0.37418723}
-  m_AnchoredPosition: {x: 274.30005, y: 239.4297}
+  m_AnchoredPosition: {x: 274.30005, y: 239.42964}
   m_SizeDelta: {x: -937.63, y: -215.15}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &230672036
@@ -2300,9 +2300,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 4637745726447591440, guid: 3bb38b0641a3b0343b504c9b0cba70d3, type: 3}
-        m_TargetAssemblyTypeName: UnityEngine.Object, UnityEngine
-        m_MethodName: 
+      - m_Target: {fileID: 2002053384}
+        m_TargetAssemblyTypeName: LevelManager, Assembly-CSharp
+        m_MethodName: AlternarMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -9192,6 +9192,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2002053383}
   - component: {fileID: 2002053382}
+  - component: {fileID: 2002053384}
   m_Layer: 0
   m_Name: Menu Manager
   m_TagString: Untagged
@@ -9232,6 +9233,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2002053384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2002053381}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 635eb26f3e3400649a65f596a7e2f8b0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objetoMenu: {fileID: 179155846}
 --- !u!1 &2048274252
 GameObject:
   m_ObjectHideFlags: 0
