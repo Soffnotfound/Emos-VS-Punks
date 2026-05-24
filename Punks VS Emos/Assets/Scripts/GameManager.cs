@@ -1,5 +1,7 @@
 using System;
+using System.Collections;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -42,5 +44,14 @@ public class GameManager : MonoBehaviour
         LivesLost?.Invoke(CurrentLives);
         FailEvent?.Invoke(true);
         failSound.Play(0);
+    }
+
+    public static IEnumerator GameOver()
+    {
+        yield return new WaitForSeconds(0.4f); 
+        SceneManager.LoadScene("GameOver");
+        Debug.Log("Game Over");
+        // Aquí puedes cargar una escena de Game Over o mostrar un mensaje en pantalla
+        // Reiniciar el juego o volver al menú principal
     }
 }

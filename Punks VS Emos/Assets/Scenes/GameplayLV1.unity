@@ -1587,6 +1587,7 @@ GameObject:
   - component: {fileID: 340548786}
   - component: {fileID: 340548785}
   - component: {fileID: 340548787}
+  - component: {fileID: 340548788}
   m_Layer: 0
   m_Name: GameManagerV2
   m_TagString: Untagged
@@ -1718,6 +1719,24 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &340548788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 340548784}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Events:
+    m_Signals:
+    - {fileID: 11400000, guid: ba3e77a277d514a45a274acbc409b59c, type: 2}
+    m_Events:
+    - m_PersistentCalls:
+        m_Calls: []
 --- !u!1001 &366641387
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4981,6 +5000,8 @@ PlayableDirector:
     value: {fileID: 2110722537}
   - key: {fileID: 1886455070296394839, guid: ad540569b37478a409e9b13bd2611667, type: 2}
     value: {fileID: 0}
+  - key: {fileID: 1320694578228369853, guid: ad540569b37478a409e9b13bd2611667, type: 2}
+    value: {fileID: 340548788}
   m_ExposedReferences:
     m_References:
     - 9f9a3e0e8225f2445ac6e1b4a138537a: {fileID: 1104997367}
@@ -9104,7 +9125,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1899195839
 Transform:
   m_ObjectHideFlags: 0

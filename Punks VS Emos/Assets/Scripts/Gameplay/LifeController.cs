@@ -29,6 +29,12 @@ public class LifeController : MonoBehaviour
         {
             Die();
         }
+
+        if (livesLeft == 0)
+        {
+
+            StartCoroutine(GameManager.GameOver());
+        }
     }
 
     private void Die()
