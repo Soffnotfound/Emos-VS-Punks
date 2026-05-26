@@ -60,5 +60,6 @@ public class GameManager : MonoBehaviour
         // Aquí puedes cargar una escena de victoria o mostrar un mensaje en pantalla
         // Reiniciar el juego o volver al menú principal
         Debug.Log("¡Has terminado la canción!");
+        SceneManager.LoadScene("EndMenu");
     }
 }
