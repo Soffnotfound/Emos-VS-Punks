@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 04fb1097b72424942b4922eda65e028d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1238966787808949016
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_0"
+  - first:
+      213: -8431957965627848364
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_1"
+  - first:
+      213: 1499921177379861372
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_2"
+  - first:
+      213: -1490953393595994244
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_3"
+  - first:
+      213: -8913025967635842392
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_4"
+  - first:
+      213: -3279476487775824365
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_5"
+  - first:
+      213: -1392262369197797984
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_6"
+  - first:
+      213: 2457172481010889955
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_7"
+  - first:
+      213: 1925778108806625357
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_8"
+  - first:
+      213: -7366652358304231018
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_9"
+  - first:
+      213: 2533817062663457911
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_10"
+  - first:
+      213: -9153202185899429195
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_11"
+  - first:
+      213: 679008500253248710
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_12"
+  - first:
+      213: 1450436215986834111
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_13"
+  - first:
+      213: -3700371654239108034
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_14"
+  - first:
+      213: 3948249692095405522
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_15"
+  - first:
+      213: 5237653181708328832
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_16"
+  - first:
+      213: -6606635785392919613
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_17"
+  - first:
+      213: -1027656165697725647
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_18"
+  - first:
+      213: -4625554444745708692
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_19"
+  - first:
+      213: 7036908077045328918
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_20"
+  - first:
+      213: -448313871406469676
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_21"
+  - first:
+      213: 8089175376006407273
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_22"
+  - first:
+      213: 8739992806021559823
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_23"
+  - first:
+      213: 8516859855417322393
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_24"
+  - first:
+      213: 7662804353948592780
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_25"
+  - first:
+      213: 895195313432888117
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_26"
+  - first:
+      213: 3562473219357114574
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_27"
+  - first:
+      213: -9138332959161543829
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_28"
+  - first:
+      213: -542228836151012596
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_29"
+  - first:
+      213: -8818965288716890218
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_30"
+  - first:
+      213: -7031419330499720170
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_31"
+  - first:
+      213: -1038603982692405359
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_32"
+  - first:
+      213: -6556195368087946830
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_33"
+  - first:
+      213: -6733041844007932086
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_34"
+  - first:
+      213: -3820256548188597577
+    second: "Sin t\xEDtulo-1 [Recuperado]-01_35"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 101
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813fbdbaab1b13110800000000000000
+      internalID: 1238966787808949016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_1"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 119
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4590ab997eaabfa80800000000000000
+      internalID: -8431957965627848364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_2"
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73ffc82d5ac0d410800000000000000
+      internalID: 1499921177379861372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_3"
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 0
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f2c06b9c11f4be0800000000000000
+      internalID: -1490953393595994244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_4"
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 119
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aabb3d0b129e4480800000000000000
+      internalID: -8913025967635842392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_5"
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 0
+        width: 103
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31650e08285fc72d0800000000000000
+      internalID: -3279476487775824365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_6"
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 0
+        width: 82
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad42d170c0bdace0800000000000000
+      internalID: -1392262369197797984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_7"
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 0
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4f4825a51a91220800000000000000
+      internalID: 2457172481010889955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_8"
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 103
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4874ab9cfcb9ba10800000000000000
+      internalID: 1925778108806625357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_9"
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 0
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6919b77d5b464c990800000000000000
+      internalID: -7366652358304231018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_10"
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 0
+        width: 102
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c01e9913de92320800000000000000
+      internalID: 2533817062663457911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_11"
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 39
+        width: 23
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2b2209b1b49f080800000000000000
+      internalID: -9153202185899429195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_12"
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 39
+        width: 23
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc01922a25c6900800000000000000
+      internalID: 679008500253248710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_13"
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 39
+        width: 23
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbac14fbd0cf02410800000000000000
+      internalID: 1450436215986834111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_14"
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 0
+        width: 62
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34472cf593a5acc0800000000000000
+      internalID: -3700371654239108034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_15"
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 79
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd54ed1d200bc630800000000000000
+      internalID: 3948249692095405522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_16"
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 79
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f5b6881d1efa840800000000000000
+      internalID: 5237653181708328832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_17"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb6543b1c38054a0800000000000000
+      internalID: -6606635785392919613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_18"
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 23
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bd85c79280db1f0800000000000000
+      internalID: -1027656165697725647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_19"
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6be3bf5dbabecfb0800000000000000
+      internalID: -4625554444745708692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_20"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c2d59ec9e18a160800000000000000
+      internalID: 7036908077045328918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_21"
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 0
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddefe2c8e447c9f0800000000000000
+      internalID: -448313871406469676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_22"
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 43
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964e2bc6526824070800000000000000
+      internalID: 8089175376006407273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_23"
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06726e8621ba4970800000000000000
+      internalID: 8739992806021559823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_24"
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 0
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b2feb0ae6f13670800000000000000
+      internalID: 8516859855417322393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_25"
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 0
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a2c6ce5ffb75a60800000000000000
+      internalID: 7662804353948592780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_26"
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 0
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53303c5056f5c6c00800000000000000
+      internalID: 895195313432888117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_27"
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 0
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec08f99a482707130800000000000000
+      internalID: 3562473219357114574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_28"
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 0
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b639ee1379e1e2180800000000000000
+      internalID: -9138332959161543829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_29"
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 0
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03de321fbd9978f0800000000000000
+      internalID: -542228836151012596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_30"
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 0
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f87877bcdbc9580800000000000000
+      internalID: -8818965288716890218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_31"
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 0
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ccfba7f516b6e90800000000000000
+      internalID: -7031419330499720170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_32"
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f20553e232691f0800000000000000
+      internalID: -1038603982692405359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_33"
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b97e078c07b305a0800000000000000
+      internalID: -6556195368087946830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_34"
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 0
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fe016bd1e6f82a0800000000000000
+      internalID: -6733041844007932086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-01_35"
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 0
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2db56f8e8bbfac0800000000000000
+      internalID: -3820256548188597577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Sin t\xEDtulo-1 [Recuperado]-01_0": 1238966787808949016
+      "Sin t\xEDtulo-1 [Recuperado]-01_1": -8431957965627848364
+      "Sin t\xEDtulo-1 [Recuperado]-01_10": 2533817062663457911
+      "Sin t\xEDtulo-1 [Recuperado]-01_11": -9153202185899429195
+      "Sin t\xEDtulo-1 [Recuperado]-01_12": 679008500253248710
+      "Sin t\xEDtulo-1 [Recuperado]-01_13": 1450436215986834111
+      "Sin t\xEDtulo-1 [Recuperado]-01_14": -3700371654239108034
+      "Sin t\xEDtulo-1 [Recuperado]-01_15": 3948249692095405522
+      "Sin t\xEDtulo-1 [Recuperado]-01_16": 5237653181708328832
+      "Sin t\xEDtulo-1 [Recuperado]-01_17": -6606635785392919613
+      "Sin t\xEDtulo-1 [Recuperado]-01_18": -1027656165697725647
+      "Sin t\xEDtulo-1 [Recuperado]-01_19": -4625554444745708692
+      "Sin t\xEDtulo-1 [Recuperado]-01_2": 1499921177379861372
+      "Sin t\xEDtulo-1 [Recuperado]-01_20": 7036908077045328918
+      "Sin t\xEDtulo-1 [Recuperado]-01_21": -448313871406469676
+      "Sin t\xEDtulo-1 [Recuperado]-01_22": 8089175376006407273
+      "Sin t\xEDtulo-1 [Recuperado]-01_23": 8739992806021559823
+      "Sin t\xEDtulo-1 [Recuperado]-01_24": 8516859855417322393
+      "Sin t\xEDtulo-1 [Recuperado]-01_25": 7662804353948592780
+      "Sin t\xEDtulo-1 [Recuperado]-01_26": 895195313432888117
+      "Sin t\xEDtulo-1 [Recuperado]-01_27": 3562473219357114574
+      "Sin t\xEDtulo-1 [Recuperado]-01_28": -9138332959161543829
+      "Sin t\xEDtulo-1 [Recuperado]-01_29": -542228836151012596
+      "Sin t\xEDtulo-1 [Recuperado]-01_3": -1490953393595994244
+      "Sin t\xEDtulo-1 [Recuperado]-01_30": -8818965288716890218
+      "Sin t\xEDtulo-1 [Recuperado]-01_31": -7031419330499720170
+      "Sin t\xEDtulo-1 [Recuperado]-01_32": -1038603982692405359
+      "Sin t\xEDtulo-1 [Recuperado]-01_33": -6556195368087946830
+      "Sin t\xEDtulo-1 [Recuperado]-01_34": -6733041844007932086
+      "Sin t\xEDtulo-1 [Recuperado]-01_35": -3820256548188597577
+      "Sin t\xEDtulo-1 [Recuperado]-01_4": -8913025967635842392
+      "Sin t\xEDtulo-1 [Recuperado]-01_5": -3279476487775824365
+      "Sin t\xEDtulo-1 [Recuperado]-01_6": -1392262369197797984
+      "Sin t\xEDtulo-1 [Recuperado]-01_7": 2457172481010889955
+      "Sin t\xEDtulo-1 [Recuperado]-01_8": 1925778108806625357
+      "Sin t\xEDtulo-1 [Recuperado]-01_9": -7366652358304231018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

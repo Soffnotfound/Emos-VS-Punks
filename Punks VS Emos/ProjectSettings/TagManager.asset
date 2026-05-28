@@ -46,6 +46,9 @@ TagManager:
   - name: Background
     uniqueID: 1576536323
     locked: 0
+  - name: BgChara
+    uniqueID: 592085739
+    locked: 0
   - name: Characters
     uniqueID: 2686252495
     locked: 0

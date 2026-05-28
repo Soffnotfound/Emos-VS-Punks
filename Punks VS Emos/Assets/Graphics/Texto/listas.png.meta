@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 9eba56eeaed8b2644bd7200d4ac65d8b
+guid: 99c29bee027db5e4ba3e095f0afd5003
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3263700201260416044
-    second: multitudesEmo2_0
+      213: -5909961189009630494
+    second: "Sin t\xEDtulo-1 [Recuperado]-04_0"
+  - first:
+      213: 1876684157424934995
+    second: "Sin t\xEDtulo-1 [Recuperado]-04_1"
+  - first:
+      213: 4693622530712604072
+    second: "Sin t\xEDtulo-1 [Recuperado]-04_2"
+  - first:
+      213: -5315797808306230861
+    second: "Sin t\xEDtulo-1 [Recuperado]-04_3"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +55,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: multitudesEmo2_0
+      name: "Sin t\xEDtulo-1 [Recuperado]-04_0"
       rect:
         serializedVersion: 2
-        x: 1529
-        y: 138
-        width: 391
-        height: 605
+        x: 0
+        y: 0
+        width: 222
+        height: 293
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2c7f7d8a0efa4d20800000000000000
-      internalID: 3263700201260416044
+      spriteID: 2ea5cb46c999bfda0800000000000000
+      internalID: -5909961189009630494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-04_1"
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 152
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350aaee4c425b0a10800000000000000
+      internalID: 1876684157424934995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-04_2"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 1055
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad05e4e2d8132140800000000000000
+      internalID: 4693622530712604072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Sin t\xEDtulo-1 [Recuperado]-04_3"
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 331
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b96b12ce0e7a36b0800000000000000
+      internalID: -5315797808306230861
       vertices: []
       indices: 
       edges: []
@@ -125,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      multitudesEmo2_0: 3263700201260416044
+      "Sin t\xEDtulo-1 [Recuperado]-04_0": -5909961189009630494
+      "Sin t\xEDtulo-1 [Recuperado]-04_1": 1876684157424934995
+      "Sin t\xEDtulo-1 [Recuperado]-04_2": 4693622530712604072
+      "Sin t\xEDtulo-1 [Recuperado]-04_3": -5315797808306230861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
